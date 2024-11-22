@@ -1,0 +1,1601 @@
+NomeDispositivo,DescricaoDispositivo,Voltagem,Status,Temperatura,ConsumoWatts,CustoConsumo
+Televisão,Eletrônico de entretenimento,125.15,Ligado,29.76,95.97,2.7
+Televisão,Eletrônico de entretenimento,127.25,Ligado,29.21,92.29,1.86
+Televisão,Eletrônico de entretenimento,127.99,Ligado,28.11,100.82,1.98
+Geladeira,Eletrodoméstico de cozinha,221.32,Ligado,5.76,150.04,3.43
+Geladeira,Eletrodoméstico de cozinha,220.45,Ligado,5.89,155.14,1.82
+Geladeira,Eletrodoméstico de cozinha,223.52,Ligado,4.64,151.84,2.34
+Microondas,Aquecedor de alimentos,123.47,Ligado,33.21,1191.36,17.04
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.29,Ligado,18.43,502.16,12.83
+Ar Condicionado,Climatizador de ambiente,222.92,Desligado,25.06,2004.27,37.22
+Televisão,Eletrônico de entretenimento,131.97,Ligado,31.24,101.9,2.6
+Microondas,Aquecedor de alimentos,128.86,Ligado,36.37,1209.3,17.38
+Microondas,Aquecedor de alimentos,127.48,Ligado,33.64,1208.08,32.15
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.89,Ligado,18.27,496.91,9.25
+Geladeira,Eletrodoméstico de cozinha,217.66,Ligado,3.68,152.74,2.2
+Microondas,Aquecedor de alimentos,124.7,Ligado,33.04,1205.12,28.13
+Microondas,Aquecedor de alimentos,124.91,Ligado,33.57,1203.51,12.15
+Ar Condicionado,Climatizador de ambiente,221.71,Desligado,23.07,2000.74,23.95
+Ar Condicionado,Climatizador de ambiente,223.99,Desligado,25.22,2005.32,58.28
+Microondas,Aquecedor de alimentos,122.29,Ligado,33.3,1202.71,18.75
+Televisão,Eletrônico de entretenimento,130.05,Ligado,28.24,106.0,1.99
+Geladeira,Eletrodoméstico de cozinha,222.65,Ligado,2.97,142.98,3.64
+Ar Condicionado,Climatizador de ambiente,217.37,Desligado,23.05,1991.07,26.31
+Ar Condicionado,Climatizador de ambiente,218.41,Desligado,23.16,1995.59,33.44
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.06,Ligado,20.98,496.47,10.02
+Televisão,Eletrônico de entretenimento,127.81,Ligado,30.54,93.85,2.73
+Geladeira,Eletrodoméstico de cozinha,221.25,Ligado,3.85,144.59,2.8
+Televisão,Eletrônico de entretenimento,125.65,Ligado,31.21,102.24,1.21
+Microondas,Aquecedor de alimentos,126.76,Ligado,33.99,1194.18,15.9
+Microondas,Aquecedor de alimentos,125.46,Ligado,35.19,1193.97,27.28
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.01,Ligado,21.91,503.88,13.41
+Ar Condicionado,Climatizador de ambiente,221.29,Desligado,24.08,1992.2,22.78
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.53,Ligado,21.11,498.34,6.64
+Geladeira,Eletrodoméstico de cozinha,218.34,Ligado,2.93,150.97,3.51
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.19,Ligado,21.64,504.62,13.77
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.07,Ligado,18.43,502.96,14.0
+Televisão,Eletrônico de entretenimento,130.5,Ligado,30.99,98.23,1.08
+Ar Condicionado,Climatizador de ambiente,217.62,Desligado,23.51,1998.63,31.46
+Ar Condicionado,Climatizador de ambiente,216.87,Desligado,23.95,1991.02,59.66
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.54,Ligado,18.76,505.04,12.28
+Geladeira,Eletrodoméstico de cozinha,220.53,Ligado,4.8,148.8,3.36
+Geladeira,Eletrodoméstico de cozinha,218.83,Ligado,5.62,151.5,3.7
+Televisão,Eletrônico de entretenimento,125.16,Ligado,28.56,95.07,2.03
+Ar Condicionado,Climatizador de ambiente,217.76,Desligado,24.13,1993.89,39.88
+Televisão,Eletrônico de entretenimento,131.67,Ligado,29.75,96.1,2.51
+Televisão,Eletrônico de entretenimento,130.82,Ligado,28.07,91.96,2.74
+Microondas,Aquecedor de alimentos,127.66,Ligado,34.67,1190.62,33.66
+Ar Condicionado,Climatizador de ambiente,217.19,Desligado,22.29,2004.79,32.55
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.49,Ligado,18.73,498.83,14.54
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.07,Ligado,20.34,504.14,5.22
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.54,Ligado,19.16,504.58,7.61
+Microondas,Aquecedor de alimentos,123.09,Ligado,34.33,1191.08,32.3
+Televisão,Eletrônico de entretenimento,124.11,Ligado,28.38,97.69,2.53
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.06,Ligado,20.78,496.54,9.2
+Geladeira,Eletrodoméstico de cozinha,221.42,Ligado,3.64,156.19,2.42
+Ar Condicionado,Climatizador de ambiente,219.35,Desligado,23.85,1991.82,37.39
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.09,Ligado,21.89,497.79,9.41
+Ar Condicionado,Climatizador de ambiente,222.12,Desligado,23.29,1992.39,54.12
+Geladeira,Eletrodoméstico de cozinha,219.87,Ligado,3.49,156.45,4.03
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.69,Ligado,20.84,498.71,7.31
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.8,Ligado,18.84,502.64,8.21
+Televisão,Eletrônico de entretenimento,129.63,Ligado,30.13,107.18,1.45
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.78,Ligado,20.96,496.57,11.34
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.76,Ligado,21.69,507.18,11.69
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.8,Ligado,20.07,494.75,9.77
+Televisão,Eletrônico de entretenimento,125.49,Ligado,29.73,109.51,2.98
+Microondas,Aquecedor de alimentos,122.71,Ligado,33.68,1204.33,13.69
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.95,Ligado,19.6,490.58,10.74
+Ar Condicionado,Climatizador de ambiente,220.04,Desligado,22.58,1998.72,49.86
+Ar Condicionado,Climatizador de ambiente,223.23,Desligado,25.55,2002.83,20.83
+Televisão,Eletrônico de entretenimento,125.6,Ligado,31.87,106.05,2.92
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.97,Ligado,20.4,501.13,14.07
+Televisão,Eletrônico de entretenimento,122.35,Ligado,30.79,90.18,1.54
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.17,Ligado,20.27,505.77,11.2
+Televisão,Eletrônico de entretenimento,123.19,Ligado,31.59,95.86,1.41
+Televisão,Eletrônico de entretenimento,131.72,Ligado,30.27,104.09,1.72
+Ar Condicionado,Climatizador de ambiente,218.49,Desligado,24.23,1991.17,20.91
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.38,Ligado,18.97,509.59,10.31
+Geladeira,Eletrodoméstico de cozinha,222.55,Ligado,2.49,157.72,4.37
+Geladeira,Eletrodoméstico de cozinha,216.42,Ligado,4.87,150.53,2.34
+Microondas,Aquecedor de alimentos,124.2,Ligado,34.39,1197.57,13.88
+Geladeira,Eletrodoméstico de cozinha,218.93,Ligado,5.77,152.23,3.79
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.17,Ligado,20.15,508.23,10.94
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.11,Ligado,18.68,500.25,10.38
+Televisão,Eletrônico de entretenimento,131.0,Ligado,31.41,102.69,1.25
+Ar Condicionado,Climatizador de ambiente,218.3,Desligado,25.95,2006.65,26.99
+Ar Condicionado,Climatizador de ambiente,220.21,Desligado,23.5,1997.44,51.83
+Ar Condicionado,Climatizador de ambiente,216.46,Desligado,25.91,1993.6,25.08
+Microondas,Aquecedor de alimentos,126.23,Ligado,33.9,1192.89,24.33
+Microondas,Aquecedor de alimentos,125.1,Ligado,36.18,1191.89,27.52
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.95,Ligado,20.86,499.12,5.38
+Televisão,Eletrônico de entretenimento,122.18,Ligado,30.73,94.45,2.77
+Televisão,Eletrônico de entretenimento,122.69,Ligado,30.64,105.27,1.35
+Ar Condicionado,Climatizador de ambiente,216.81,Desligado,24.79,2006.13,56.47
+Televisão,Eletrônico de entretenimento,123.96,Ligado,29.23,92.93,1.31
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.9,Ligado,20.69,490.48,13.02
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.88,Ligado,18.25,504.23,9.0
+Geladeira,Eletrodoméstico de cozinha,220.37,Ligado,5.89,152.78,2.9
+Microondas,Aquecedor de alimentos,122.91,Ligado,35.54,1191.78,12.75
+Televisão,Eletrônico de entretenimento,131.45,Ligado,28.9,92.54,2.06
+Microondas,Aquecedor de alimentos,129.83,Ligado,34.34,1194.59,32.83
+Ar Condicionado,Climatizador de ambiente,217.08,Desligado,23.25,1993.49,47.53
+Microondas,Aquecedor de alimentos,124.83,Ligado,36.08,1196.22,23.41
+Microondas,Aquecedor de alimentos,130.94,Ligado,34.58,1209.93,16.07
+Ar Condicionado,Climatizador de ambiente,223.29,Desligado,24.13,2006.61,41.49
+Televisão,Eletrônico de entretenimento,122.13,Ligado,28.74,94.27,1.93
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.14,Ligado,19.13,492.66,9.29
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.78,Ligado,21.79,509.23,14.27
+Ar Condicionado,Climatizador de ambiente,224.22,Desligado,24.48,1995.85,31.5
+Televisão,Eletrônico de entretenimento,126.5,Ligado,29.68,102.0,2.57
+Ar Condicionado,Climatizador de ambiente,218.75,Desligado,24.14,2005.4,21.54
+Geladeira,Eletrodoméstico de cozinha,220.55,Ligado,2.62,147.04,3.97
+Ar Condicionado,Climatizador de ambiente,218.18,Desligado,23.77,2005.06,45.97
+Microondas,Aquecedor de alimentos,131.67,Ligado,35.7,1202.05,22.65
+Ar Condicionado,Climatizador de ambiente,222.91,Desligado,23.11,1990.36,24.63
+Microondas,Aquecedor de alimentos,124.76,Ligado,33.3,1190.93,25.58
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.35,Ligado,18.33,502.08,6.09
+Microondas,Aquecedor de alimentos,129.09,Ligado,34.91,1191.13,29.86
+Geladeira,Eletrodoméstico de cozinha,220.52,Ligado,5.7,149.01,3.21
+Ar Condicionado,Climatizador de ambiente,215.99,Desligado,24.47,1997.86,30.38
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.01,Ligado,19.28,499.97,14.24
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.99,Ligado,18.03,491.6,10.3
+Geladeira,Eletrodoméstico de cozinha,222.31,Ligado,2.93,156.18,2.14
+Geladeira,Eletrodoméstico de cozinha,220.58,Ligado,4.11,154.73,3.21
+Microondas,Aquecedor de alimentos,131.9,Ligado,34.62,1191.39,21.51
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.57,Ligado,18.18,497.07,14.71
+Microondas,Aquecedor de alimentos,128.26,Ligado,34.42,1194.76,27.9
+Geladeira,Eletrodoméstico de cozinha,224.48,Ligado,3.64,156.39,2.02
+Microondas,Aquecedor de alimentos,129.17,Ligado,34.6,1194.64,27.81
+Televisão,Eletrônico de entretenimento,130.0,Ligado,31.26,101.89,1.03
+Microondas,Aquecedor de alimentos,125.68,Ligado,36.87,1207.34,14.66
+Ar Condicionado,Climatizador de ambiente,216.13,Desligado,24.32,2003.39,34.56
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.46,Ligado,19.65,498.27,5.45
+Geladeira,Eletrodoméstico de cozinha,218.1,Ligado,5.31,153.2,1.7
+Geladeira,Eletrodoméstico de cozinha,224.26,Ligado,4.37,147.6,3.69
+Microondas,Aquecedor de alimentos,130.91,Ligado,36.97,1192.12,21.02
+Ar Condicionado,Climatizador de ambiente,221.17,Desligado,25.86,1993.32,42.67
+Microondas,Aquecedor de alimentos,125.01,Ligado,36.93,1202.91,24.72
+Geladeira,Eletrodoméstico de cozinha,216.99,Ligado,4.39,155.82,3.76
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.32,Ligado,21.5,506.39,8.27
+Televisão,Eletrônico de entretenimento,124.79,Ligado,30.68,99.4,1.37
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.58,Ligado,21.17,493.74,13.57
+Televisão,Eletrônico de entretenimento,122.08,Ligado,31.13,105.38,2.83
+Microondas,Aquecedor de alimentos,129.71,Ligado,36.93,1199.93,35.93
+Ar Condicionado,Climatizador de ambiente,220.28,Desligado,24.55,2008.3,29.38
+Televisão,Eletrônico de entretenimento,129.15,Ligado,31.16,100.79,2.98
+Geladeira,Eletrodoméstico de cozinha,221.62,Ligado,3.06,158.68,2.79
+Microondas,Aquecedor de alimentos,122.33,Ligado,34.36,1206.15,24.02
+Ar Condicionado,Climatizador de ambiente,216.91,Desligado,22.59,1994.97,48.97
+Televisão,Eletrônico de entretenimento,127.37,Ligado,29.4,96.88,1.27
+Televisão,Eletrônico de entretenimento,123.8,Ligado,30.58,99.87,2.4
+Microondas,Aquecedor de alimentos,127.74,Ligado,35.29,1202.49,14.45
+Televisão,Eletrônico de entretenimento,129.93,Ligado,31.65,106.62,2.36
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.26,Ligado,20.84,494.47,13.99
+Geladeira,Eletrodoméstico de cozinha,221.36,Ligado,2.29,153.06,2.93
+Televisão,Eletrônico de entretenimento,128.89,Ligado,28.63,102.74,2.99
+Ar Condicionado,Climatizador de ambiente,220.68,Desligado,25.03,1990.29,33.77
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.44,Ligado,18.77,502.45,14.22
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.26,Ligado,20.59,508.93,7.25
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.71,Ligado,18.54,509.71,7.61
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.44,Ligado,20.96,498.22,11.39
+Televisão,Eletrônico de entretenimento,125.79,Ligado,28.04,100.95,2.48
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.58,Ligado,21.86,506.76,14.64
+Geladeira,Eletrodoméstico de cozinha,218.44,Ligado,5.52,156.32,1.91
+Microondas,Aquecedor de alimentos,127.94,Ligado,33.51,1200.5,30.2
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.28,Ligado,19.9,508.47,5.34
+Geladeira,Eletrodoméstico de cozinha,219.39,Ligado,4.84,153.78,2.29
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.05,Ligado,18.49,507.77,9.16
+Televisão,Eletrônico de entretenimento,125.16,Ligado,30.76,102.93,1.87
+Televisão,Eletrônico de entretenimento,126.88,Ligado,31.43,91.84,2.18
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.19,Ligado,18.41,496.01,7.85
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.28,Ligado,19.07,499.15,10.84
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.96,Ligado,18.54,497.44,13.74
+Microondas,Aquecedor de alimentos,125.37,Ligado,33.28,1202.51,35.66
+Microondas,Aquecedor de alimentos,123.42,Ligado,36.56,1208.05,19.19
+Ar Condicionado,Climatizador de ambiente,215.53,Desligado,24.47,2001.38,26.36
+Geladeira,Eletrodoméstico de cozinha,223.88,Ligado,4.28,154.78,3.23
+Televisão,Eletrônico de entretenimento,131.76,Ligado,28.28,90.7,2.28
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.7,Ligado,21.36,506.88,5.26
+Microondas,Aquecedor de alimentos,126.12,Ligado,34.9,1191.26,33.48
+Microondas,Aquecedor de alimentos,124.2,Ligado,34.92,1193.95,14.54
+Ar Condicionado,Climatizador de ambiente,222.13,Desligado,24.57,2007.54,30.98
+Televisão,Eletrônico de entretenimento,125.92,Ligado,28.2,107.24,1.43
+Televisão,Eletrônico de entretenimento,122.99,Ligado,31.19,93.68,2.54
+Ar Condicionado,Climatizador de ambiente,219.97,Desligado,23.65,2001.81,36.82
+Televisão,Eletrônico de entretenimento,122.57,Ligado,28.23,101.55,2.67
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.55,Ligado,20.55,502.02,9.15
+Geladeira,Eletrodoméstico de cozinha,216.83,Ligado,4.29,155.61,4.67
+Microondas,Aquecedor de alimentos,122.85,Ligado,35.87,1204.61,29.09
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.84,Ligado,18.76,503.8,12.67
+Televisão,Eletrônico de entretenimento,129.44,Ligado,28.95,99.94,1.99
+Ar Condicionado,Climatizador de ambiente,218.96,Desligado,24.33,1997.81,38.18
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.82,Ligado,19.98,506.88,12.38
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.99,Ligado,21.89,507.14,11.7
+Geladeira,Eletrodoméstico de cozinha,224.21,Ligado,3.07,142.92,1.79
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.73,Ligado,18.95,491.27,11.78
+Ar Condicionado,Climatizador de ambiente,217.22,Desligado,24.08,1996.59,23.98
+Microondas,Aquecedor de alimentos,123.5,Ligado,34.91,1203.36,24.07
+Microondas,Aquecedor de alimentos,131.86,Ligado,34.45,1191.15,21.48
+Ar Condicionado,Climatizador de ambiente,219.49,Desligado,22.91,1997.5,55.02
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.91,Ligado,18.28,508.4,10.91
+Ar Condicionado,Climatizador de ambiente,219.34,Desligado,25.18,1993.27,51.93
+Microondas,Aquecedor de alimentos,124.97,Ligado,34.37,1193.08,35.21
+Ar Condicionado,Climatizador de ambiente,219.74,Desligado,22.34,1993.58,44.22
+Microondas,Aquecedor de alimentos,124.34,Ligado,35.9,1199.32,27.41
+Microondas,Aquecedor de alimentos,122.6,Ligado,36.43,1197.21,12.87
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.27,Ligado,21.56,491.79,10.62
+Geladeira,Eletrodoméstico de cozinha,223.9,Ligado,4.48,140.73,2.82
+Microondas,Aquecedor de alimentos,129.32,Ligado,34.41,1205.78,25.12
+Microondas,Aquecedor de alimentos,125.82,Ligado,34.33,1205.47,12.29
+Ar Condicionado,Climatizador de ambiente,222.9,Desligado,25.58,1996.54,26.15
+Ar Condicionado,Climatizador de ambiente,215.48,Desligado,22.49,1994.21,56.2
+Ar Condicionado,Climatizador de ambiente,217.41,Desligado,25.27,2002.77,37.99
+Ar Condicionado,Climatizador de ambiente,221.97,Desligado,25.98,2001.26,22.19
+Televisão,Eletrônico de entretenimento,130.36,Ligado,30.47,96.69,2.57
+Geladeira,Eletrodoméstico de cozinha,217.34,Ligado,4.74,141.5,3.88
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.86,Ligado,18.99,492.75,6.54
+Geladeira,Eletrodoméstico de cozinha,217.94,Ligado,5.92,150.99,3.42
+Ar Condicionado,Climatizador de ambiente,217.0,Desligado,22.62,2003.17,39.08
+Ar Condicionado,Climatizador de ambiente,219.16,Desligado,24.92,2001.52,43.02
+Ar Condicionado,Climatizador de ambiente,217.24,Desligado,22.58,2009.78,40.01
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.09,Ligado,21.42,497.31,6.04
+Televisão,Eletrônico de entretenimento,128.21,Ligado,31.8,103.59,2.34
+Televisão,Eletrônico de entretenimento,123.51,Ligado,28.45,104.35,1.64
+Geladeira,Eletrodoméstico de cozinha,219.9,Ligado,2.64,143.24,2.13
+Ar Condicionado,Climatizador de ambiente,221.48,Desligado,22.65,1992.35,31.59
+Ar Condicionado,Climatizador de ambiente,219.85,Desligado,24.56,2003.71,57.08
+Ar Condicionado,Climatizador de ambiente,223.43,Desligado,23.34,2007.31,26.5
+Televisão,Eletrônico de entretenimento,126.1,Ligado,28.98,100.95,1.39
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.64,Ligado,19.08,500.33,13.9
+Microondas,Aquecedor de alimentos,127.29,Ligado,36.12,1202.42,25.05
+Televisão,Eletrônico de entretenimento,122.61,Ligado,30.48,103.64,2.03
+Geladeira,Eletrodoméstico de cozinha,223.22,Ligado,4.08,159.22,2.01
+Televisão,Eletrônico de entretenimento,123.81,Ligado,31.55,107.08,1.98
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.6,Ligado,21.59,504.79,10.68
+Geladeira,Eletrodoméstico de cozinha,220.43,Ligado,3.29,142.44,1.77
+Televisão,Eletrônico de entretenimento,123.17,Ligado,28.54,98.53,2.18
+Televisão,Eletrônico de entretenimento,130.23,Ligado,28.31,98.08,2.45
+Televisão,Eletrônico de entretenimento,126.65,Ligado,31.63,99.65,2.75
+Geladeira,Eletrodoméstico de cozinha,221.9,Ligado,3.39,148.51,2.27
+Geladeira,Eletrodoméstico de cozinha,220.83,Ligado,4.92,140.22,1.64
+Televisão,Eletrônico de entretenimento,125.24,Ligado,29.71,94.9,2.65
+Ar Condicionado,Climatizador de ambiente,219.23,Desligado,22.79,2007.51,44.84
+Geladeira,Eletrodoméstico de cozinha,224.35,Ligado,5.48,140.64,3.69
+Geladeira,Eletrodoméstico de cozinha,220.55,Ligado,2.99,154.63,3.38
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.22,Ligado,19.65,504.2,13.55
+Ar Condicionado,Climatizador de ambiente,217.52,Desligado,24.71,1993.36,36.44
+Ar Condicionado,Climatizador de ambiente,219.98,Desligado,23.91,1992.39,49.17
+Ar Condicionado,Climatizador de ambiente,220.6,Desligado,25.45,2007.15,25.42
+Geladeira,Eletrodoméstico de cozinha,221.7,Ligado,2.93,144.2,1.69
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.75,Ligado,19.57,501.15,8.88
+Microondas,Aquecedor de alimentos,127.95,Ligado,36.69,1195.52,18.06
+Ar Condicionado,Climatizador de ambiente,218.27,Desligado,22.97,1999.14,39.93
+Televisão,Eletrônico de entretenimento,122.11,Ligado,31.78,107.42,3.05
+Microondas,Aquecedor de alimentos,128.84,Ligado,36.87,1190.56,22.8
+Microondas,Aquecedor de alimentos,131.09,Ligado,34.79,1192.71,12.36
+Microondas,Aquecedor de alimentos,131.39,Ligado,36.81,1195.53,12.27
+Televisão,Eletrônico de entretenimento,125.42,Ligado,29.15,94.57,2.66
+Ar Condicionado,Climatizador de ambiente,215.61,Desligado,24.89,1997.4,31.53
+Microondas,Aquecedor de alimentos,127.12,Ligado,35.05,1204.94,31.0
+Ar Condicionado,Climatizador de ambiente,223.56,Desligado,23.35,2007.68,40.43
+Ar Condicionado,Climatizador de ambiente,220.54,Desligado,23.73,2003.26,20.14
+Geladeira,Eletrodoméstico de cozinha,224.68,Ligado,2.55,155.98,3.89
+Televisão,Eletrônico de entretenimento,128.67,Ligado,29.39,90.57,2.22
+Microondas,Aquecedor de alimentos,126.37,Ligado,33.27,1209.35,22.72
+Televisão,Eletrônico de entretenimento,124.25,Ligado,28.92,109.3,2.2
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.26,Ligado,20.78,493.17,6.75
+Microondas,Aquecedor de alimentos,130.93,Ligado,33.35,1192.58,21.38
+Ar Condicionado,Climatizador de ambiente,220.61,Desligado,23.95,1997.47,54.4
+Ar Condicionado,Climatizador de ambiente,223.42,Desligado,22.46,1996.26,23.36
+Microondas,Aquecedor de alimentos,129.41,Ligado,35.43,1194.01,32.91
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.77,Ligado,19.59,495.29,6.13
+Televisão,Eletrônico de entretenimento,130.9,Ligado,31.14,92.79,1.38
+Televisão,Eletrônico de entretenimento,124.4,Ligado,31.28,94.96,2.34
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.52,Ligado,21.82,509.95,8.86
+Televisão,Eletrônico de entretenimento,127.02,Ligado,28.75,91.14,0.95
+Geladeira,Eletrodoméstico de cozinha,216.96,Ligado,5.46,158.02,2.19
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.51,Ligado,20.98,505.47,8.46
+Microondas,Aquecedor de alimentos,127.44,Ligado,34.15,1194.67,34.0
+Televisão,Eletrônico de entretenimento,131.14,Ligado,30.42,95.09,2.0
+Microondas,Aquecedor de alimentos,125.95,Ligado,36.61,1208.95,33.36
+Ar Condicionado,Climatizador de ambiente,224.39,Desligado,23.65,2007.83,39.71
+Geladeira,Eletrodoméstico de cozinha,221.0,Ligado,2.93,151.8,3.25
+Ar Condicionado,Climatizador de ambiente,222.6,Desligado,23.86,2009.37,49.96
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.33,Ligado,18.99,509.51,15.18
+Televisão,Eletrônico de entretenimento,122.76,Ligado,31.3,92.23,2.28
+Ar Condicionado,Climatizador de ambiente,218.3,Desligado,22.76,1999.74,33.98
+Geladeira,Eletrodoméstico de cozinha,220.17,Ligado,3.8,159.26,3.08
+Microondas,Aquecedor de alimentos,125.52,Ligado,35.88,1201.25,19.48
+Televisão,Eletrônico de entretenimento,127.06,Ligado,28.84,97.0,2.13
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.45,Ligado,20.1,504.83,6.78
+Ar Condicionado,Climatizador de ambiente,217.2,Desligado,22.1,2003.32,29.36
+Microondas,Aquecedor de alimentos,130.42,Ligado,34.85,1208.73,19.55
+Geladeira,Eletrodoméstico de cozinha,215.57,Ligado,5.93,141.0,1.58
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.88,Ligado,19.35,508.05,12.94
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.9,Ligado,21.65,500.11,8.43
+Televisão,Eletrônico de entretenimento,128.99,Ligado,29.38,107.75,1.14
+Ar Condicionado,Climatizador de ambiente,219.88,Desligado,22.17,2003.92,53.76
+Ar Condicionado,Climatizador de ambiente,217.28,Desligado,23.03,1994.42,31.78
+Ar Condicionado,Climatizador de ambiente,221.85,Desligado,24.1,2002.0,34.54
+Microondas,Aquecedor de alimentos,128.53,Ligado,35.65,1197.93,18.73
+Ar Condicionado,Climatizador de ambiente,220.58,Desligado,25.84,1997.11,37.95
+Microondas,Aquecedor de alimentos,130.53,Ligado,35.99,1207.47,31.79
+Televisão,Eletrônico de entretenimento,122.88,Ligado,29.33,98.13,1.82
+Ar Condicionado,Climatizador de ambiente,216.97,Desligado,24.93,2007.37,28.65
+Televisão,Eletrônico de entretenimento,128.57,Ligado,31.07,99.45,2.39
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.24,Ligado,20.53,503.32,11.67
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.66,Ligado,19.88,499.11,12.85
+Televisão,Eletrônico de entretenimento,123.4,Ligado,31.23,101.69,2.04
+Geladeira,Eletrodoméstico de cozinha,220.61,Ligado,3.7,146.3,3.36
+Geladeira,Eletrodoméstico de cozinha,220.22,Ligado,2.47,147.04,1.59
+Geladeira,Eletrodoméstico de cozinha,222.12,Ligado,2.27,159.43,2.65
+Ar Condicionado,Climatizador de ambiente,221.62,Desligado,25.97,2002.05,37.87
+Ar Condicionado,Climatizador de ambiente,215.23,Desligado,24.5,2001.08,47.01
+Geladeira,Eletrodoméstico de cozinha,216.11,Ligado,4.92,142.12,1.58
+Televisão,Eletrônico de entretenimento,125.42,Ligado,30.45,103.95,1.67
+Televisão,Eletrônico de entretenimento,130.22,Ligado,28.99,109.27,2.56
+Ar Condicionado,Climatizador de ambiente,217.99,Desligado,25.74,2004.29,34.23
+Microondas,Aquecedor de alimentos,124.47,Ligado,34.92,1199.55,25.33
+Ar Condicionado,Climatizador de ambiente,218.51,Desligado,24.07,2003.83,29.71
+Televisão,Eletrônico de entretenimento,131.39,Ligado,29.54,101.45,2.34
+Geladeira,Eletrodoméstico de cozinha,215.45,Ligado,5.88,141.77,1.86
+Microondas,Aquecedor de alimentos,122.47,Ligado,35.56,1198.78,32.98
+Geladeira,Eletrodoméstico de cozinha,222.16,Ligado,4.47,148.6,3.36
+Ar Condicionado,Climatizador de ambiente,219.11,Desligado,22.05,2005.23,21.18
+Ar Condicionado,Climatizador de ambiente,219.92,Desligado,25.03,2009.68,34.0
+Ar Condicionado,Climatizador de ambiente,220.98,Desligado,23.79,2006.53,40.63
+Televisão,Eletrônico de entretenimento,124.69,Ligado,30.9,106.39,1.51
+Ar Condicionado,Climatizador de ambiente,220.54,Desligado,23.69,1991.66,37.32
+Televisão,Eletrônico de entretenimento,127.11,Ligado,31.99,105.63,1.29
+Ar Condicionado,Climatizador de ambiente,219.93,Desligado,23.91,2004.26,37.21
+Geladeira,Eletrodoméstico de cozinha,217.0,Ligado,5.05,150.48,3.23
+Geladeira,Eletrodoméstico de cozinha,216.82,Ligado,3.28,156.12,2.94
+Microondas,Aquecedor de alimentos,125.44,Ligado,33.23,1206.37,20.32
+Ar Condicionado,Climatizador de ambiente,216.47,Desligado,22.44,2008.7,42.01
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.27,Ligado,18.33,498.11,14.64
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.11,Ligado,21.07,500.76,6.82
+Microondas,Aquecedor de alimentos,129.43,Ligado,33.95,1192.05,31.28
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.02,Ligado,19.9,494.69,11.0
+Geladeira,Eletrodoméstico de cozinha,216.61,Ligado,2.49,151.64,2.79
+Geladeira,Eletrodoméstico de cozinha,223.73,Ligado,4.68,156.84,2.97
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.16,Ligado,19.8,493.58,9.98
+Televisão,Eletrônico de entretenimento,128.42,Ligado,31.62,91.09,2.6
+Microondas,Aquecedor de alimentos,125.52,Ligado,34.74,1195.44,31.61
+Televisão,Eletrônico de entretenimento,129.55,Ligado,29.73,91.47,2.69
+Televisão,Eletrônico de entretenimento,124.54,Ligado,29.52,93.97,1.58
+Microondas,Aquecedor de alimentos,127.08,Ligado,36.28,1193.02,19.54
+Ar Condicionado,Climatizador de ambiente,224.21,Desligado,22.06,2000.98,53.08
+Ar Condicionado,Climatizador de ambiente,223.91,Desligado,24.14,1990.4,22.5
+Microondas,Aquecedor de alimentos,128.2,Ligado,33.98,1193.12,22.36
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.18,Ligado,20.96,492.02,9.74
+Ar Condicionado,Climatizador de ambiente,223.4,Desligado,22.36,2009.56,45.16
+Geladeira,Eletrodoméstico de cozinha,221.41,Ligado,3.09,158.92,1.82
+Geladeira,Eletrodoméstico de cozinha,223.55,Ligado,5.89,152.64,4.16
+Televisão,Eletrônico de entretenimento,127.23,Ligado,31.97,103.42,1.53
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.37,Ligado,20.21,498.76,7.06
+Ar Condicionado,Climatizador de ambiente,215.38,Desligado,25.09,2001.93,50.97
+Geladeira,Eletrodoméstico de cozinha,217.6,Ligado,2.49,153.69,3.65
+Geladeira,Eletrodoméstico de cozinha,221.88,Ligado,3.71,154.06,3.41
+Ar Condicionado,Climatizador de ambiente,221.58,Desligado,25.6,1992.99,35.68
+Geladeira,Eletrodoméstico de cozinha,219.97,Ligado,3.67,140.83,3.82
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.26,Ligado,19.94,505.05,12.4
+Televisão,Eletrônico de entretenimento,126.06,Ligado,29.94,97.74,1.15
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.0,Ligado,21.02,508.51,14.05
+Geladeira,Eletrodoméstico de cozinha,219.57,Ligado,2.27,140.49,2.58
+Televisão,Eletrônico de entretenimento,125.44,Ligado,28.66,107.0,3.0
+Microondas,Aquecedor de alimentos,125.22,Ligado,33.92,1208.0,18.7
+Microondas,Aquecedor de alimentos,122.74,Ligado,33.88,1202.95,33.74
+Geladeira,Eletrodoméstico de cozinha,223.84,Ligado,3.28,146.94,2.71
+Microondas,Aquecedor de alimentos,128.32,Ligado,36.31,1208.91,29.06
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.08,Ligado,20.02,497.01,7.62
+Televisão,Eletrônico de entretenimento,126.24,Ligado,30.77,101.82,2.31
+Microondas,Aquecedor de alimentos,130.58,Ligado,35.66,1207.54,34.11
+Televisão,Eletrônico de entretenimento,123.44,Ligado,28.33,106.32,3.06
+Microondas,Aquecedor de alimentos,126.99,Ligado,35.53,1203.57,33.65
+Ar Condicionado,Climatizador de ambiente,218.51,Desligado,25.95,1992.14,25.02
+Ar Condicionado,Climatizador de ambiente,224.39,Desligado,22.32,2002.51,25.32
+Microondas,Aquecedor de alimentos,129.82,Ligado,34.96,1198.68,32.48
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.66,Ligado,20.12,499.67,8.97
+Microondas,Aquecedor de alimentos,122.37,Ligado,33.28,1190.29,24.73
+Televisão,Eletrônico de entretenimento,128.4,Ligado,30.96,108.97,2.58
+Geladeira,Eletrodoméstico de cozinha,217.67,Ligado,2.19,153.18,4.24
+Televisão,Eletrônico de entretenimento,131.25,Ligado,28.4,93.61,1.1
+Geladeira,Eletrodoméstico de cozinha,219.7,Ligado,4.61,140.7,1.42
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.06,Ligado,19.14,501.77,11.72
+Ar Condicionado,Climatizador de ambiente,215.07,Desligado,25.12,1995.54,41.35
+Geladeira,Eletrodoméstico de cozinha,222.19,Ligado,5.18,152.8,2.13
+Televisão,Eletrônico de entretenimento,123.34,Ligado,31.2,94.46,1.9
+Ar Condicionado,Climatizador de ambiente,223.97,Desligado,22.64,2002.19,27.46
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.61,Ligado,21.78,507.29,7.29
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.85,Ligado,19.39,505.35,10.64
+Microondas,Aquecedor de alimentos,131.45,Ligado,34.23,1208.64,12.37
+Televisão,Eletrônico de entretenimento,130.77,Ligado,29.99,101.93,1.22
+Televisão,Eletrônico de entretenimento,124.37,Ligado,29.21,94.54,1.26
+Microondas,Aquecedor de alimentos,131.65,Ligado,33.77,1194.68,32.03
+Microondas,Aquecedor de alimentos,122.24,Ligado,36.86,1193.19,18.21
+Televisão,Eletrônico de entretenimento,125.1,Ligado,29.94,92.48,1.62
+Televisão,Eletrônico de entretenimento,123.38,Ligado,28.29,102.54,1.75
+Televisão,Eletrônico de entretenimento,124.3,Ligado,28.27,108.87,2.54
+Microondas,Aquecedor de alimentos,122.71,Ligado,35.41,1207.52,30.02
+Ar Condicionado,Climatizador de ambiente,222.04,Desligado,25.47,2007.93,38.31
+Ar Condicionado,Climatizador de ambiente,223.64,Desligado,25.65,2002.2,30.35
+Televisão,Eletrônico de entretenimento,122.74,Ligado,31.27,91.84,1.04
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.82,Ligado,20.88,491.59,6.16
+Ar Condicionado,Climatizador de ambiente,224.25,Desligado,23.89,2009.47,39.9
+Geladeira,Eletrodoméstico de cozinha,217.44,Ligado,5.6,158.78,3.61
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.46,Ligado,21.0,504.49,6.04
+Televisão,Eletrônico de entretenimento,130.36,Ligado,31.0,97.31,1.65
+Ar Condicionado,Climatizador de ambiente,223.47,Desligado,23.59,1999.72,56.57
+Ar Condicionado,Climatizador de ambiente,223.45,Desligado,22.76,1992.48,44.09
+Ar Condicionado,Climatizador de ambiente,223.94,Desligado,23.31,1998.81,45.2
+Geladeira,Eletrodoméstico de cozinha,219.74,Ligado,3.79,152.23,4.51
+Microondas,Aquecedor de alimentos,127.47,Ligado,34.12,1208.24,23.44
+Televisão,Eletrônico de entretenimento,126.96,Ligado,31.09,97.43,1.04
+Geladeira,Eletrodoméstico de cozinha,222.02,Ligado,2.13,145.28,2.97
+Geladeira,Eletrodoméstico de cozinha,215.79,Ligado,4.28,150.94,4.43
+Ar Condicionado,Climatizador de ambiente,217.1,Desligado,22.37,1994.59,46.65
+Microondas,Aquecedor de alimentos,125.15,Ligado,34.81,1196.37,15.32
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.19,Ligado,18.6,490.48,9.09
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.85,Ligado,19.26,501.69,13.1
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.0,Ligado,20.72,498.64,14.59
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.9,Ligado,21.08,496.12,5.79
+Televisão,Eletrônico de entretenimento,129.25,Ligado,31.61,107.3,3.08
+Ar Condicionado,Climatizador de ambiente,218.34,Desligado,23.98,2007.64,44.97
+Microondas,Aquecedor de alimentos,125.11,Ligado,36.25,1192.12,25.31
+Televisão,Eletrônico de entretenimento,127.32,Ligado,31.27,96.94,1.35
+Geladeira,Eletrodoméstico de cozinha,220.65,Ligado,5.68,143.16,3.93
+Microondas,Aquecedor de alimentos,128.25,Ligado,35.07,1207.55,19.14
+Geladeira,Eletrodoméstico de cozinha,217.28,Ligado,4.39,140.68,2.17
+Televisão,Eletrônico de entretenimento,125.82,Ligado,28.26,90.07,1.0
+Televisão,Eletrônico de entretenimento,125.19,Ligado,31.55,90.71,0.92
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.65,Ligado,20.67,502.75,9.42
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.7,Ligado,19.49,500.34,8.01
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.8,Ligado,19.0,490.85,11.16
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.54,Ligado,21.45,503.87,10.76
+Televisão,Eletrônico de entretenimento,126.07,Ligado,28.77,92.89,1.52
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.45,Ligado,20.14,502.3,13.7
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.9,Ligado,19.38,494.94,11.08
+Ar Condicionado,Climatizador de ambiente,216.47,Desligado,22.08,2002.96,44.23
+Televisão,Eletrônico de entretenimento,122.9,Ligado,31.96,92.9,1.76
+Televisão,Eletrônico de entretenimento,127.59,Ligado,28.51,94.0,2.52
+Televisão,Eletrônico de entretenimento,126.72,Ligado,28.28,104.45,1.8
+Geladeira,Eletrodoméstico de cozinha,220.52,Ligado,3.98,149.64,2.86
+Geladeira,Eletrodoméstico de cozinha,220.44,Ligado,5.47,150.37,2.11
+Geladeira,Eletrodoméstico de cozinha,220.26,Ligado,2.43,158.2,2.5
+Geladeira,Eletrodoméstico de cozinha,222.57,Ligado,4.83,151.48,3.5
+Geladeira,Eletrodoméstico de cozinha,217.76,Ligado,2.66,151.39,3.66
+Microondas,Aquecedor de alimentos,127.61,Ligado,35.95,1205.2,16.09
+Geladeira,Eletrodoméstico de cozinha,219.43,Ligado,5.07,148.75,3.43
+Microondas,Aquecedor de alimentos,131.81,Ligado,34.86,1204.99,24.94
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.84,Ligado,21.97,508.84,10.77
+Geladeira,Eletrodoméstico de cozinha,219.69,Ligado,4.43,158.76,1.64
+Televisão,Eletrônico de entretenimento,123.45,Ligado,28.1,90.29,2.28
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.56,Ligado,21.14,495.09,7.96
+Ar Condicionado,Climatizador de ambiente,221.33,Desligado,23.24,1994.53,25.11
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.9,Ligado,21.01,495.74,6.89
+Ar Condicionado,Climatizador de ambiente,222.24,Desligado,24.77,2006.98,28.22
+Microondas,Aquecedor de alimentos,125.46,Ligado,35.61,1207.85,30.69
+Televisão,Eletrônico de entretenimento,129.61,Ligado,29.13,104.67,1.82
+Televisão,Eletrônico de entretenimento,124.12,Ligado,29.37,102.35,1.09
+Ar Condicionado,Climatizador de ambiente,217.74,Desligado,24.25,2002.79,50.36
+Ar Condicionado,Climatizador de ambiente,220.46,Desligado,24.67,1996.9,45.74
+Televisão,Eletrônico de entretenimento,124.69,Ligado,31.06,103.85,2.37
+Televisão,Eletrônico de entretenimento,127.26,Ligado,29.45,102.06,1.58
+Ar Condicionado,Climatizador de ambiente,218.98,Desligado,25.82,1995.33,25.52
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.13,Ligado,19.62,506.39,14.04
+Microondas,Aquecedor de alimentos,129.52,Ligado,35.79,1202.16,16.26
+Ar Condicionado,Climatizador de ambiente,224.25,Desligado,24.14,2004.31,45.12
+Ar Condicionado,Climatizador de ambiente,216.83,Desligado,23.68,1996.99,39.07
+Microondas,Aquecedor de alimentos,122.24,Ligado,35.26,1206.46,21.24
+Ar Condicionado,Climatizador de ambiente,216.2,Desligado,23.48,1993.76,57.94
+Televisão,Eletrônico de entretenimento,125.0,Ligado,28.63,104.91,1.72
+Ar Condicionado,Climatizador de ambiente,224.04,Desligado,25.43,2007.72,31.92
+Geladeira,Eletrodoméstico de cozinha,220.88,Ligado,2.19,146.44,2.03
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.21,Ligado,20.79,498.37,9.48
+Microondas,Aquecedor de alimentos,122.5,Ligado,36.61,1198.95,29.24
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.06,Ligado,19.5,508.16,7.63
+Geladeira,Eletrodoméstico de cozinha,222.52,Ligado,5.05,158.44,2.04
+Ar Condicionado,Climatizador de ambiente,222.75,Desligado,25.5,1995.72,41.65
+Microondas,Aquecedor de alimentos,128.56,Ligado,36.57,1193.71,21.21
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.74,Ligado,18.2,492.49,5.22
+Geladeira,Eletrodoméstico de cozinha,215.13,Ligado,3.7,157.25,3.24
+Microondas,Aquecedor de alimentos,123.74,Ligado,33.06,1195.23,26.83
+Ar Condicionado,Climatizador de ambiente,224.1,Desligado,25.74,1993.17,29.3
+Ar Condicionado,Climatizador de ambiente,218.1,Desligado,22.57,2000.92,39.22
+Ar Condicionado,Climatizador de ambiente,220.52,Desligado,25.58,1991.77,42.96
+Televisão,Eletrônico de entretenimento,125.97,Ligado,31.02,97.9,1.79
+Ar Condicionado,Climatizador de ambiente,224.77,Desligado,22.55,1999.34,51.26
+Geladeira,Eletrodoméstico de cozinha,222.77,Ligado,2.1,144.76,3.7
+Ar Condicionado,Climatizador de ambiente,222.82,Desligado,23.85,1997.76,54.4
+Microondas,Aquecedor de alimentos,124.61,Ligado,34.58,1209.27,33.13
+Televisão,Eletrônico de entretenimento,124.11,Ligado,30.33,98.43,1.33
+Microondas,Aquecedor de alimentos,130.3,Ligado,36.31,1203.09,16.29
+Microondas,Aquecedor de alimentos,123.67,Ligado,34.52,1196.26,23.6
+Geladeira,Eletrodoméstico de cozinha,222.62,Ligado,5.96,144.81,2.04
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.1,Ligado,20.71,508.29,5.97
+Geladeira,Eletrodoméstico de cozinha,219.18,Ligado,4.71,144.47,3.61
+Microondas,Aquecedor de alimentos,131.41,Ligado,34.99,1209.13,12.99
+Microondas,Aquecedor de alimentos,128.22,Ligado,34.42,1196.13,12.48
+Microondas,Aquecedor de alimentos,125.55,Ligado,33.05,1193.83,20.43
+Geladeira,Eletrodoméstico de cozinha,223.13,Ligado,4.85,150.44,3.04
+Microondas,Aquecedor de alimentos,130.26,Ligado,36.54,1208.38,20.47
+Televisão,Eletrônico de entretenimento,131.96,Ligado,28.78,91.72,1.63
+Televisão,Eletrônico de entretenimento,122.19,Ligado,28.9,106.67,1.32
+Televisão,Eletrônico de entretenimento,131.88,Ligado,30.32,103.11,2.53
+Televisão,Eletrônico de entretenimento,129.71,Ligado,31.47,98.74,1.99
+Ar Condicionado,Climatizador de ambiente,216.47,Desligado,24.97,1990.08,58.05
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.86,Ligado,21.6,497.06,6.35
+Ar Condicionado,Climatizador de ambiente,222.96,Desligado,24.58,2005.15,40.62
+Geladeira,Eletrodoméstico de cozinha,215.33,Ligado,4.78,150.76,3.48
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.09,Ligado,19.7,508.13,14.32
+Microondas,Aquecedor de alimentos,128.44,Ligado,36.86,1206.13,15.44
+Geladeira,Eletrodoméstico de cozinha,219.28,Ligado,2.35,153.84,3.24
+Ar Condicionado,Climatizador de ambiente,224.17,Desligado,22.36,1992.77,21.31
+Ar Condicionado,Climatizador de ambiente,222.82,Desligado,22.36,1992.78,33.01
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.5,Ligado,21.9,491.36,9.23
+Ar Condicionado,Climatizador de ambiente,224.73,Desligado,22.39,1998.88,31.64
+Televisão,Eletrônico de entretenimento,126.2,Ligado,28.76,100.21,1.73
+Microondas,Aquecedor de alimentos,126.42,Ligado,34.38,1206.4,24.72
+Geladeira,Eletrodoméstico de cozinha,217.24,Ligado,4.63,157.31,2.39
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.67,Ligado,20.44,503.24,10.71
+Geladeira,Eletrodoméstico de cozinha,220.89,Ligado,3.56,145.88,2.37
+Televisão,Eletrônico de entretenimento,124.19,Ligado,29.16,109.88,3.22
+Ar Condicionado,Climatizador de ambiente,220.83,Desligado,24.7,1990.18,47.03
+Microondas,Aquecedor de alimentos,129.72,Ligado,36.83,1199.61,33.54
+Ar Condicionado,Climatizador de ambiente,217.63,Desligado,22.94,2000.74,54.17
+Microondas,Aquecedor de alimentos,126.86,Ligado,33.81,1203.14,35.75
+Ar Condicionado,Climatizador de ambiente,219.59,Desligado,22.18,2004.07,27.84
+Microondas,Aquecedor de alimentos,124.86,Ligado,34.82,1191.14,17.29
+Televisão,Eletrônico de entretenimento,124.44,Ligado,28.09,93.07,2.18
+Televisão,Eletrônico de entretenimento,124.21,Ligado,30.53,103.24,2.73
+Ar Condicionado,Climatizador de ambiente,215.1,Desligado,23.67,2009.79,53.8
+Geladeira,Eletrodoméstico de cozinha,224.67,Ligado,4.36,151.42,1.97
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.22,Ligado,19.67,503.64,5.23
+Televisão,Eletrônico de entretenimento,126.26,Ligado,28.1,105.21,1.53
+Microondas,Aquecedor de alimentos,126.45,Ligado,34.75,1202.56,30.12
+Televisão,Eletrônico de entretenimento,124.11,Ligado,28.33,95.75,1.14
+Microondas,Aquecedor de alimentos,125.63,Ligado,36.57,1192.14,34.71
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.35,Ligado,18.05,502.91,12.63
+Geladeira,Eletrodoméstico de cozinha,220.96,Ligado,5.4,144.62,2.73
+Geladeira,Eletrodoméstico de cozinha,224.81,Ligado,5.11,147.39,3.3
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.63,Ligado,19.57,498.09,7.97
+Microondas,Aquecedor de alimentos,127.04,Ligado,33.81,1198.67,34.59
+Geladeira,Eletrodoméstico de cozinha,221.55,Ligado,5.08,145.83,1.48
+Microondas,Aquecedor de alimentos,122.37,Ligado,34.55,1207.29,19.67
+Ar Condicionado,Climatizador de ambiente,215.33,Desligado,22.53,2002.12,56.82
+Microondas,Aquecedor de alimentos,127.26,Ligado,33.37,1201.56,13.93
+Ar Condicionado,Climatizador de ambiente,220.9,Desligado,25.0,2008.8,20.5
+Televisão,Eletrônico de entretenimento,128.51,Ligado,29.21,98.44,1.02
+Ar Condicionado,Climatizador de ambiente,219.81,Desligado,25.43,2000.7,27.35
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.79,Ligado,18.49,509.0,13.5
+Televisão,Eletrônico de entretenimento,125.9,Ligado,30.58,106.78,1.66
+Microondas,Aquecedor de alimentos,130.77,Ligado,35.32,1196.13,30.33
+Ar Condicionado,Climatizador de ambiente,218.47,Desligado,22.22,2003.11,46.07
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.35,Ligado,20.04,499.7,14.08
+Televisão,Eletrônico de entretenimento,128.31,Ligado,28.97,93.1,2.33
+Geladeira,Eletrodoméstico de cozinha,223.39,Ligado,5.87,149.03,1.88
+Ar Condicionado,Climatizador de ambiente,218.33,Desligado,24.94,1998.38,26.03
+Ar Condicionado,Climatizador de ambiente,216.12,Desligado,25.5,1999.65,31.72
+Microondas,Aquecedor de alimentos,125.62,Ligado,35.0,1198.78,30.42
+Geladeira,Eletrodoméstico de cozinha,222.39,Ligado,4.68,149.0,4.3
+Microondas,Aquecedor de alimentos,126.92,Ligado,35.68,1200.28,16.29
+Televisão,Eletrônico de entretenimento,124.33,Ligado,30.8,98.46,1.04
+Geladeira,Eletrodoméstico de cozinha,215.26,Ligado,5.32,140.38,1.72
+Ar Condicionado,Climatizador de ambiente,222.8,Desligado,24.78,2000.48,26.06
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.15,Ligado,18.09,504.23,7.03
+Ar Condicionado,Climatizador de ambiente,223.51,Desligado,22.75,2009.96,36.84
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.19,Ligado,19.78,493.54,11.38
+Ar Condicionado,Climatizador de ambiente,223.04,Desligado,25.74,1998.4,52.63
+Microondas,Aquecedor de alimentos,126.72,Ligado,33.52,1206.77,35.42
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.2,Ligado,21.62,492.59,9.84
+Geladeira,Eletrodoméstico de cozinha,222.02,Ligado,5.56,148.08,3.68
+Geladeira,Eletrodoméstico de cozinha,224.61,Ligado,4.06,159.69,2.29
+Ar Condicionado,Climatizador de ambiente,224.14,Desligado,22.01,2003.09,24.56
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.56,Ligado,21.13,495.98,5.32
+Geladeira,Eletrodoméstico de cozinha,219.38,Ligado,4.65,148.59,1.55
+Microondas,Aquecedor de alimentos,127.5,Ligado,35.15,1194.58,33.19
+Ar Condicionado,Climatizador de ambiente,219.81,Desligado,23.92,2005.73,42.94
+Geladeira,Eletrodoméstico de cozinha,223.72,Ligado,5.57,149.3,1.82
+Televisão,Eletrônico de entretenimento,129.9,Ligado,31.47,101.47,1.84
+Ar Condicionado,Climatizador de ambiente,218.01,Desligado,24.65,1991.27,23.76
+Geladeira,Eletrodoméstico de cozinha,217.4,Ligado,2.31,150.53,1.57
+Geladeira,Eletrodoméstico de cozinha,215.69,Ligado,5.34,145.44,4.12
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.82,Ligado,21.01,504.49,9.78
+Microondas,Aquecedor de alimentos,130.15,Ligado,33.14,1195.5,12.1
+Geladeira,Eletrodoméstico de cozinha,223.27,Ligado,2.56,156.55,3.93
+Ar Condicionado,Climatizador de ambiente,216.7,Desligado,23.07,2006.72,29.67
+Televisão,Eletrônico de entretenimento,129.83,Ligado,31.71,96.65,2.09
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.18,Ligado,21.04,509.43,6.56
+Microondas,Aquecedor de alimentos,123.62,Ligado,34.21,1201.84,24.5
+Televisão,Eletrônico de entretenimento,124.39,Ligado,31.16,107.63,2.35
+Geladeira,Eletrodoméstico de cozinha,222.01,Ligado,2.96,158.88,3.5
+Televisão,Eletrônico de entretenimento,124.11,Ligado,29.8,100.08,2.97
+Ar Condicionado,Climatizador de ambiente,224.93,Desligado,25.95,2003.55,52.42
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.35,Ligado,18.86,490.22,10.84
+Geladeira,Eletrodoméstico de cozinha,215.33,Ligado,4.36,154.99,1.65
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.8,Ligado,20.91,498.72,11.86
+Microondas,Aquecedor de alimentos,130.37,Ligado,35.42,1203.26,16.67
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.89,Ligado,20.56,493.81,11.18
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.49,Ligado,19.0,509.9,14.91
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.72,Ligado,19.67,506.58,13.36
+Ar Condicionado,Climatizador de ambiente,216.34,Desligado,23.55,2002.42,29.0
+Microondas,Aquecedor de alimentos,123.28,Ligado,35.79,1195.96,33.6
+Televisão,Eletrônico de entretenimento,127.43,Ligado,31.55,93.08,2.19
+Microondas,Aquecedor de alimentos,122.68,Ligado,34.2,1192.12,28.91
+Geladeira,Eletrodoméstico de cozinha,218.82,Ligado,4.88,150.29,3.29
+Geladeira,Eletrodoméstico de cozinha,223.92,Ligado,3.23,155.65,2.3
+Microondas,Aquecedor de alimentos,128.63,Ligado,34.73,1202.03,28.29
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.7,Ligado,20.03,506.14,15.11
+Microondas,Aquecedor de alimentos,127.9,Ligado,35.22,1198.28,35.42
+Microondas,Aquecedor de alimentos,131.91,Ligado,33.03,1198.02,13.05
+Ar Condicionado,Climatizador de ambiente,222.45,Desligado,25.02,1992.2,53.28
+Televisão,Eletrônico de entretenimento,123.88,Ligado,30.85,91.02,2.4
+Microondas,Aquecedor de alimentos,130.13,Ligado,35.36,1196.13,20.9
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.26,Ligado,21.71,500.1,12.86
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.28,Ligado,21.64,494.23,14.5
+Geladeira,Eletrodoméstico de cozinha,221.09,Ligado,3.54,144.11,2.37
+Geladeira,Eletrodoméstico de cozinha,215.32,Ligado,5.64,156.7,4.12
+Microondas,Aquecedor de alimentos,124.3,Ligado,36.73,1200.54,14.2
+Ar Condicionado,Climatizador de ambiente,223.04,Desligado,25.13,1998.56,25.01
+Geladeira,Eletrodoméstico de cozinha,224.85,Ligado,5.56,157.53,3.01
+Geladeira,Eletrodoméstico de cozinha,222.73,Ligado,5.82,158.7,2.33
+Geladeira,Eletrodoméstico de cozinha,216.49,Ligado,4.38,144.95,3.23
+Televisão,Eletrônico de entretenimento,131.68,Ligado,28.3,105.93,2.77
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.67,Ligado,19.22,509.25,12.76
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.81,Ligado,18.07,490.85,13.05
+Ar Condicionado,Climatizador de ambiente,221.35,Desligado,22.29,1994.64,59.38
+Microondas,Aquecedor de alimentos,130.18,Ligado,34.57,1202.01,33.96
+Microondas,Aquecedor de alimentos,122.56,Ligado,35.11,1199.46,25.31
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.5,Ligado,20.01,492.55,14.35
+Geladeira,Eletrodoméstico de cozinha,216.14,Ligado,3.24,158.71,2.25
+Televisão,Eletrônico de entretenimento,125.21,Ligado,29.93,92.97,1.3
+Microondas,Aquecedor de alimentos,131.83,Ligado,35.91,1209.05,32.15
+Microondas,Aquecedor de alimentos,131.25,Ligado,33.44,1193.06,20.63
+Microondas,Aquecedor de alimentos,127.42,Ligado,34.35,1201.64,24.77
+Ar Condicionado,Climatizador de ambiente,218.42,Desligado,23.72,1999.53,45.71
+Geladeira,Eletrodoméstico de cozinha,223.31,Ligado,3.42,154.54,4.31
+Ar Condicionado,Climatizador de ambiente,219.84,Desligado,22.3,1996.04,46.23
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.04,Ligado,18.72,491.83,12.83
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.35,Ligado,21.74,500.17,6.68
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.63,Ligado,19.0,504.93,10.85
+Geladeira,Eletrodoméstico de cozinha,221.06,Ligado,3.25,141.55,4.13
+Ar Condicionado,Climatizador de ambiente,219.25,Desligado,23.7,2000.01,52.76
+Geladeira,Eletrodoméstico de cozinha,217.76,Ligado,4.9,154.93,2.44
+Ar Condicionado,Climatizador de ambiente,217.37,Desligado,24.31,1992.61,44.57
+Microondas,Aquecedor de alimentos,128.12,Ligado,34.49,1208.8,26.78
+Microondas,Aquecedor de alimentos,129.67,Ligado,33.77,1200.96,30.95
+Televisão,Eletrônico de entretenimento,131.55,Ligado,31.28,91.57,1.37
+Geladeira,Eletrodoméstico de cozinha,216.33,Ligado,3.06,140.76,3.26
+Microondas,Aquecedor de alimentos,126.06,Ligado,34.94,1199.01,22.62
+Geladeira,Eletrodoméstico de cozinha,216.15,Ligado,5.2,154.69,2.22
+Geladeira,Eletrodoméstico de cozinha,224.98,Ligado,4.35,157.14,1.74
+Microondas,Aquecedor de alimentos,130.19,Ligado,34.23,1191.83,23.89
+Microondas,Aquecedor de alimentos,124.52,Ligado,35.7,1197.76,27.0
+Geladeira,Eletrodoméstico de cozinha,224.82,Ligado,5.17,158.02,4.25
+Ar Condicionado,Climatizador de ambiente,219.03,Desligado,24.27,2008.02,54.08
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.49,Ligado,21.16,506.76,9.31
+Televisão,Eletrônico de entretenimento,129.08,Ligado,30.08,97.97,1.95
+Ar Condicionado,Climatizador de ambiente,223.39,Desligado,22.83,2005.0,57.92
+Geladeira,Eletrodoméstico de cozinha,220.17,Ligado,4.56,148.44,3.57
+Microondas,Aquecedor de alimentos,126.26,Ligado,34.09,1201.07,22.43
+Microondas,Aquecedor de alimentos,125.14,Ligado,33.03,1192.44,29.26
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.05,Ligado,20.27,507.62,13.3
+Geladeira,Eletrodoméstico de cozinha,218.26,Ligado,3.72,144.48,2.18
+Geladeira,Eletrodoméstico de cozinha,218.13,Ligado,2.64,147.43,3.83
+Televisão,Eletrônico de entretenimento,122.39,Ligado,31.42,93.83,2.46
+Televisão,Eletrônico de entretenimento,131.55,Ligado,30.58,109.37,2.62
+Geladeira,Eletrodoméstico de cozinha,223.39,Ligado,4.99,152.76,4.55
+Televisão,Eletrônico de entretenimento,128.24,Ligado,28.26,104.61,2.36
+Televisão,Eletrônico de entretenimento,123.87,Ligado,30.17,100.08,2.8
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.33,Ligado,18.52,500.75,11.75
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.98,Ligado,20.72,508.84,14.62
+Geladeira,Eletrodoméstico de cozinha,220.41,Ligado,2.62,155.03,1.8
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.17,Ligado,20.43,502.31,6.68
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.7,Ligado,21.37,490.29,11.71
+Televisão,Eletrônico de entretenimento,130.09,Ligado,28.97,101.34,1.81
+Televisão,Eletrônico de entretenimento,129.02,Ligado,30.23,104.47,1.77
+Microondas,Aquecedor de alimentos,128.01,Ligado,34.77,1191.52,24.11
+Microondas,Aquecedor de alimentos,125.17,Ligado,33.7,1207.54,34.8
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.74,Ligado,18.49,509.46,10.63
+Microondas,Aquecedor de alimentos,126.58,Ligado,33.62,1207.68,17.26
+Televisão,Eletrônico de entretenimento,126.98,Ligado,31.68,99.25,2.25
+Ar Condicionado,Climatizador de ambiente,217.47,Desligado,23.54,2002.45,53.03
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.74,Ligado,19.99,501.28,14.06
+Televisão,Eletrônico de entretenimento,122.71,Ligado,31.84,107.19,2.39
+Microondas,Aquecedor de alimentos,131.57,Ligado,34.32,1206.41,30.96
+Ar Condicionado,Climatizador de ambiente,224.74,Desligado,25.53,1999.1,28.42
+Televisão,Eletrônico de entretenimento,123.33,Ligado,30.07,109.88,1.65
+Ar Condicionado,Climatizador de ambiente,217.89,Desligado,22.38,2003.21,51.8
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.6,Ligado,21.05,490.32,8.89
+Geladeira,Eletrodoméstico de cozinha,223.39,Ligado,3.06,150.62,2.14
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.72,Ligado,18.95,509.05,15.19
+Geladeira,Eletrodoméstico de cozinha,220.55,Ligado,5.52,140.65,4.07
+Ar Condicionado,Climatizador de ambiente,222.98,Desligado,24.59,1998.09,42.17
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.05,Ligado,19.73,496.94,5.38
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.58,Ligado,20.88,497.82,12.64
+Televisão,Eletrônico de entretenimento,127.65,Ligado,29.01,100.04,2.05
+Geladeira,Eletrodoméstico de cozinha,223.74,Ligado,4.79,142.04,1.78
+Geladeira,Eletrodoméstico de cozinha,224.69,Ligado,3.4,154.47,2.62
+Microondas,Aquecedor de alimentos,130.18,Ligado,35.79,1209.24,33.03
+Ar Condicionado,Climatizador de ambiente,218.45,Desligado,23.26,2008.0,50.27
+Ar Condicionado,Climatizador de ambiente,220.87,Desligado,22.65,2005.84,34.3
+Ar Condicionado,Climatizador de ambiente,221.74,Desligado,24.84,1996.44,52.71
+Televisão,Eletrônico de entretenimento,126.76,Ligado,28.55,99.07,2.93
+Ar Condicionado,Climatizador de ambiente,220.81,Desligado,25.56,2006.7,47.2
+Microondas,Aquecedor de alimentos,124.07,Ligado,35.54,1208.42,24.76
+Microondas,Aquecedor de alimentos,126.64,Ligado,34.47,1191.34,17.65
+Geladeira,Eletrodoméstico de cozinha,219.28,Ligado,2.6,154.63,3.51
+Ar Condicionado,Climatizador de ambiente,215.39,Desligado,22.88,2005.16,23.53
+Televisão,Eletrônico de entretenimento,131.06,Ligado,31.79,98.17,1.61
+Geladeira,Eletrodoméstico de cozinha,218.92,Ligado,5.58,141.21,2.86
+Geladeira,Eletrodoméstico de cozinha,218.15,Ligado,2.16,146.83,1.8
+Geladeira,Eletrodoméstico de cozinha,220.63,Ligado,5.36,140.05,3.91
+Geladeira,Eletrodoméstico de cozinha,215.22,Ligado,4.33,146.71,1.88
+Televisão,Eletrônico de entretenimento,130.8,Ligado,31.96,98.18,2.83
+Microondas,Aquecedor de alimentos,123.99,Ligado,33.67,1198.59,27.66
+Ar Condicionado,Climatizador de ambiente,223.98,Desligado,22.17,1995.58,31.08
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.64,Ligado,19.31,505.23,11.05
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.7,Ligado,21.3,491.12,5.01
+Microondas,Aquecedor de alimentos,130.77,Ligado,35.83,1199.14,12.4
+Microondas,Aquecedor de alimentos,125.36,Ligado,36.97,1199.14,20.36
+Ar Condicionado,Climatizador de ambiente,221.3,Desligado,25.34,1996.32,50.35
+Televisão,Eletrônico de entretenimento,131.02,Ligado,31.17,96.96,1.34
+Ar Condicionado,Climatizador de ambiente,222.75,Desligado,25.51,1994.72,22.67
+Geladeira,Eletrodoméstico de cozinha,221.87,Ligado,2.46,147.4,1.95
+Ar Condicionado,Climatizador de ambiente,219.54,Desligado,24.94,1994.07,25.94
+Televisão,Eletrônico de entretenimento,126.8,Ligado,31.84,108.78,3.07
+Ar Condicionado,Climatizador de ambiente,224.87,Desligado,25.99,1998.69,50.59
+Ar Condicionado,Climatizador de ambiente,219.72,Desligado,25.67,2003.13,32.28
+Ar Condicionado,Climatizador de ambiente,223.31,Desligado,22.52,1999.53,51.65
+Televisão,Eletrônico de entretenimento,124.59,Ligado,29.65,98.15,2.05
+Televisão,Eletrônico de entretenimento,129.54,Ligado,28.0,91.21,1.58
+Ar Condicionado,Climatizador de ambiente,220.43,Desligado,24.62,1990.07,54.18
+Microondas,Aquecedor de alimentos,122.6,Ligado,35.74,1208.62,34.93
+Geladeira,Eletrodoméstico de cozinha,219.07,Ligado,4.52,141.91,1.74
+Televisão,Eletrônico de entretenimento,122.81,Ligado,28.46,102.8,2.34
+Microondas,Aquecedor de alimentos,125.44,Ligado,37.0,1209.5,29.25
+Ar Condicionado,Climatizador de ambiente,219.84,Desligado,24.5,2006.48,57.13
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.71,Ligado,19.62,490.76,6.9
+Ar Condicionado,Climatizador de ambiente,221.92,Desligado,22.59,2002.72,28.73
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.01,Ligado,21.62,491.02,7.38
+Televisão,Eletrônico de entretenimento,125.61,Ligado,31.31,96.27,1.91
+Ar Condicionado,Climatizador de ambiente,219.78,Desligado,22.27,2002.7,38.45
+Geladeira,Eletrodoméstico de cozinha,216.04,Ligado,3.6,146.47,1.97
+Ar Condicionado,Climatizador de ambiente,222.95,Desligado,25.26,2001.28,58.98
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.93,Ligado,20.13,494.02,11.11
+Televisão,Eletrônico de entretenimento,131.03,Ligado,30.62,103.76,1.61
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.6,Ligado,21.88,504.63,10.26
+Microondas,Aquecedor de alimentos,127.34,Ligado,36.95,1207.84,14.09
+Televisão,Eletrônico de entretenimento,129.19,Ligado,28.74,105.26,1.78
+Geladeira,Eletrodoméstico de cozinha,216.63,Ligado,2.2,148.11,3.21
+Microondas,Aquecedor de alimentos,131.02,Ligado,35.05,1205.72,28.54
+Ar Condicionado,Climatizador de ambiente,217.2,Desligado,23.82,1993.9,24.66
+Geladeira,Eletrodoméstico de cozinha,224.34,Ligado,5.91,159.47,3.12
+Ar Condicionado,Climatizador de ambiente,221.13,Desligado,25.45,1992.35,21.57
+Televisão,Eletrônico de entretenimento,122.63,Ligado,31.61,94.14,2.6
+Microondas,Aquecedor de alimentos,129.35,Ligado,36.28,1193.03,28.86
+Microondas,Aquecedor de alimentos,128.22,Ligado,33.19,1201.11,13.96
+Ar Condicionado,Climatizador de ambiente,215.47,Desligado,25.56,2005.69,29.8
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.89,Ligado,21.08,508.02,12.86
+Televisão,Eletrônico de entretenimento,124.9,Ligado,29.03,94.42,1.89
+Ar Condicionado,Climatizador de ambiente,216.21,Desligado,24.09,2000.86,58.92
+Geladeira,Eletrodoméstico de cozinha,217.39,Ligado,4.78,144.58,3.78
+Geladeira,Eletrodoméstico de cozinha,224.63,Ligado,3.23,156.38,2.79
+Ar Condicionado,Climatizador de ambiente,223.96,Desligado,22.49,2002.36,55.74
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.64,Ligado,18.85,502.64,14.49
+Geladeira,Eletrodoméstico de cozinha,219.3,Ligado,5.45,141.59,2.25
+Microondas,Aquecedor de alimentos,125.56,Ligado,36.65,1193.5,19.75
+Ar Condicionado,Climatizador de ambiente,223.32,Desligado,23.59,2000.43,50.14
+Geladeira,Eletrodoméstico de cozinha,221.01,Ligado,4.6,156.59,4.63
+Microondas,Aquecedor de alimentos,123.06,Ligado,36.49,1200.83,19.74
+Microondas,Aquecedor de alimentos,125.02,Ligado,34.27,1206.36,16.75
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.86,Ligado,18.08,500.01,13.45
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.26,Ligado,19.31,498.8,14.21
+Ar Condicionado,Climatizador de ambiente,222.89,Desligado,25.19,1998.52,58.86
+Microondas,Aquecedor de alimentos,129.88,Ligado,35.96,1197.73,29.66
+Microondas,Aquecedor de alimentos,127.22,Ligado,34.94,1205.73,27.71
+Ar Condicionado,Climatizador de ambiente,215.49,Desligado,22.96,1999.85,27.16
+Microondas,Aquecedor de alimentos,130.53,Ligado,33.55,1196.85,13.56
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.23,Ligado,21.32,495.31,5.55
+Ar Condicionado,Climatizador de ambiente,222.06,Desligado,25.72,1999.73,39.62
+Televisão,Eletrônico de entretenimento,130.11,Ligado,30.71,93.64,1.37
+Ar Condicionado,Climatizador de ambiente,223.94,Desligado,25.03,2006.82,34.39
+Ar Condicionado,Climatizador de ambiente,222.63,Desligado,22.23,1995.81,31.56
+Microondas,Aquecedor de alimentos,131.55,Ligado,35.37,1207.27,16.62
+Geladeira,Eletrodoméstico de cozinha,217.29,Ligado,5.63,149.18,1.51
+Geladeira,Eletrodoméstico de cozinha,215.96,Ligado,3.16,149.79,2.55
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.01,Ligado,21.34,497.56,13.03
+Geladeira,Eletrodoméstico de cozinha,216.3,Ligado,5.04,144.14,2.49
+Ar Condicionado,Climatizador de ambiente,215.44,Desligado,22.84,1992.75,29.3
+Televisão,Eletrônico de entretenimento,129.28,Ligado,30.33,98.67,1.63
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.56,Ligado,21.17,498.29,6.9
+Microondas,Aquecedor de alimentos,123.97,Ligado,34.55,1191.32,13.31
+Televisão,Eletrônico de entretenimento,127.28,Ligado,29.34,105.25,1.6
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.86,Ligado,21.13,507.53,8.37
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.23,Ligado,21.65,509.1,11.69
+Microondas,Aquecedor de alimentos,123.48,Ligado,33.24,1191.22,16.16
+Geladeira,Eletrodoméstico de cozinha,218.66,Ligado,5.99,142.53,1.73
+Ar Condicionado,Climatizador de ambiente,220.84,Desligado,23.27,2006.2,58.48
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.26,Ligado,21.94,503.74,5.96
+Microondas,Aquecedor de alimentos,126.88,Ligado,36.77,1206.98,29.31
+Microondas,Aquecedor de alimentos,122.61,Ligado,35.87,1193.25,16.58
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.93,Ligado,21.94,492.46,10.35
+Microondas,Aquecedor de alimentos,122.32,Ligado,36.58,1192.94,34.14
+Ar Condicionado,Climatizador de ambiente,215.43,Desligado,22.39,2003.16,38.51
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.32,Ligado,21.13,506.46,10.8
+Ar Condicionado,Climatizador de ambiente,221.27,Desligado,24.4,2002.47,36.18
+Microondas,Aquecedor de alimentos,131.64,Ligado,33.74,1192.92,11.98
+Ar Condicionado,Climatizador de ambiente,223.78,Desligado,23.64,2005.55,35.46
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.29,Ligado,21.34,496.13,12.73
+Ar Condicionado,Climatizador de ambiente,217.75,Desligado,25.15,1992.53,32.38
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.78,Ligado,21.2,503.99,10.64
+Televisão,Eletrônico de entretenimento,128.33,Ligado,30.93,102.44,1.12
+Microondas,Aquecedor de alimentos,127.95,Ligado,35.01,1191.38,24.57
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.47,Ligado,20.8,506.23,5.44
+Ar Condicionado,Climatizador de ambiente,216.17,Desligado,22.6,1992.15,57.51
+Televisão,Eletrônico de entretenimento,126.79,Ligado,28.97,92.9,1.49
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.13,Ligado,18.53,498.32,14.87
+Ar Condicionado,Climatizador de ambiente,215.22,Desligado,24.0,1996.57,24.83
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.77,Ligado,21.46,500.31,7.37
+Televisão,Eletrônico de entretenimento,130.31,Ligado,29.34,107.56,2.54
+Microondas,Aquecedor de alimentos,128.25,Ligado,34.83,1194.75,18.64
+Microondas,Aquecedor de alimentos,129.7,Ligado,36.8,1193.42,16.62
+Geladeira,Eletrodoméstico de cozinha,216.1,Ligado,4.49,153.37,4.33
+Televisão,Eletrônico de entretenimento,130.11,Ligado,29.49,107.4,3.07
+Geladeira,Eletrodoméstico de cozinha,223.61,Ligado,3.17,150.3,2.34
+Televisão,Eletrônico de entretenimento,124.36,Ligado,31.9,109.01,1.98
+Microondas,Aquecedor de alimentos,127.9,Ligado,36.16,1201.08,13.92
+Ar Condicionado,Climatizador de ambiente,216.63,Desligado,24.28,2008.77,47.25
+Ar Condicionado,Climatizador de ambiente,224.28,Desligado,25.91,2002.62,59.05
+Ar Condicionado,Climatizador de ambiente,215.44,Desligado,25.7,2001.67,28.17
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.85,Ligado,20.62,504.55,15.13
+Geladeira,Eletrodoméstico de cozinha,224.63,Ligado,2.33,153.45,1.78
+Ar Condicionado,Climatizador de ambiente,216.68,Desligado,24.04,2007.66,24.88
+Microondas,Aquecedor de alimentos,125.2,Ligado,34.22,1203.9,23.57
+Televisão,Eletrônico de entretenimento,122.17,Ligado,31.14,101.94,1.76
+Televisão,Eletrônico de entretenimento,122.17,Ligado,28.9,108.76,2.08
+Televisão,Eletrônico de entretenimento,127.7,Ligado,29.05,101.09,1.32
+Televisão,Eletrônico de entretenimento,130.28,Ligado,29.55,104.38,2.05
+Geladeira,Eletrodoméstico de cozinha,218.25,Ligado,3.75,151.86,3.34
+Microondas,Aquecedor de alimentos,127.0,Ligado,34.75,1205.39,21.04
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.89,Ligado,19.81,492.4,10.32
+Microondas,Aquecedor de alimentos,125.67,Ligado,34.29,1206.63,29.17
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.68,Ligado,19.06,503.32,6.04
+Televisão,Eletrônico de entretenimento,128.11,Ligado,31.88,102.35,1.79
+Geladeira,Eletrodoméstico de cozinha,224.92,Ligado,5.87,156.96,4.68
+Microondas,Aquecedor de alimentos,131.62,Ligado,33.99,1193.32,13.76
+Televisão,Eletrônico de entretenimento,131.18,Ligado,29.27,101.15,1.01
+Microondas,Aquecedor de alimentos,124.74,Ligado,35.59,1192.82,29.17
+Microondas,Aquecedor de alimentos,131.25,Ligado,33.31,1206.06,34.1
+Microondas,Aquecedor de alimentos,131.49,Ligado,36.93,1202.65,21.75
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.78,Ligado,19.5,493.28,12.79
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.71,Ligado,20.5,493.19,5.88
+Microondas,Aquecedor de alimentos,129.99,Ligado,34.12,1208.61,12.65
+Geladeira,Eletrodoméstico de cozinha,215.66,Ligado,2.69,150.54,3.96
+Geladeira,Eletrodoméstico de cozinha,222.56,Ligado,2.39,145.08,3.37
+Microondas,Aquecedor de alimentos,123.74,Ligado,34.25,1194.74,22.22
+Ar Condicionado,Climatizador de ambiente,215.26,Desligado,23.42,1990.03,39.75
+Ar Condicionado,Climatizador de ambiente,215.87,Desligado,25.52,2008.9,30.54
+Ar Condicionado,Climatizador de ambiente,222.36,Desligado,24.15,1991.55,30.7
+Televisão,Eletrônico de entretenimento,122.63,Ligado,31.97,93.39,1.07
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.82,Ligado,20.0,503.89,12.79
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.27,Ligado,18.85,505.49,9.69
+Televisão,Eletrônico de entretenimento,122.53,Ligado,30.61,94.0,1.13
+Geladeira,Eletrodoméstico de cozinha,217.77,Ligado,4.21,154.44,2.53
+Microondas,Aquecedor de alimentos,128.44,Ligado,34.69,1202.81,12.77
+Geladeira,Eletrodoméstico de cozinha,215.33,Ligado,2.3,150.3,3.73
+Ar Condicionado,Climatizador de ambiente,224.55,Desligado,25.26,2003.13,29.42
+Geladeira,Eletrodoméstico de cozinha,223.13,Ligado,5.5,155.11,4.22
+Ar Condicionado,Climatizador de ambiente,221.69,Desligado,25.32,2006.15,50.15
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.05,Ligado,20.7,500.73,14.38
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.34,Ligado,18.24,506.46,10.68
+Televisão,Eletrônico de entretenimento,131.13,Ligado,31.44,104.16,1.06
+Televisão,Eletrônico de entretenimento,122.33,Ligado,30.62,105.18,2.18
+Geladeira,Eletrodoméstico de cozinha,220.6,Ligado,5.88,153.2,1.96
+Televisão,Eletrônico de entretenimento,131.39,Ligado,29.7,94.54,1.57
+Ar Condicionado,Climatizador de ambiente,224.21,Desligado,22.34,2009.57,37.38
+Televisão,Eletrônico de entretenimento,125.89,Ligado,30.02,98.27,1.85
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.05,Ligado,18.5,492.21,13.13
+Geladeira,Eletrodoméstico de cozinha,220.87,Ligado,2.09,141.5,1.71
+Microondas,Aquecedor de alimentos,124.95,Ligado,35.1,1196.86,27.06
+Televisão,Eletrônico de entretenimento,130.07,Ligado,31.45,99.19,0.99
+Geladeira,Eletrodoméstico de cozinha,215.99,Ligado,5.93,144.33,1.99
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.24,Ligado,18.84,509.84,10.79
+Microondas,Aquecedor de alimentos,123.51,Ligado,36.64,1197.47,15.15
+Televisão,Eletrônico de entretenimento,125.67,Ligado,30.26,102.01,2.23
+Microondas,Aquecedor de alimentos,130.1,Ligado,34.17,1206.7,28.03
+Microondas,Aquecedor de alimentos,125.48,Ligado,36.94,1207.54,27.39
+Geladeira,Eletrodoméstico de cozinha,222.53,Ligado,5.13,143.14,2.89
+Geladeira,Eletrodoméstico de cozinha,222.28,Ligado,3.84,140.11,2.18
+Geladeira,Eletrodoméstico de cozinha,219.85,Ligado,5.58,143.18,2.51
+Geladeira,Eletrodoméstico de cozinha,219.1,Ligado,3.5,151.56,3.03
+Microondas,Aquecedor de alimentos,127.42,Ligado,36.06,1206.55,30.61
+Ar Condicionado,Climatizador de ambiente,220.32,Desligado,24.53,2006.04,50.21
+Televisão,Eletrônico de entretenimento,124.07,Ligado,29.08,99.34,1.55
+Ar Condicionado,Climatizador de ambiente,224.46,Desligado,24.59,1992.29,48.85
+Ar Condicionado,Climatizador de ambiente,224.0,Desligado,25.61,2005.34,42.62
+Televisão,Eletrônico de entretenimento,123.35,Ligado,28.57,102.93,1.08
+Ar Condicionado,Climatizador de ambiente,217.3,Desligado,24.75,1994.5,53.45
+Ar Condicionado,Climatizador de ambiente,216.8,Desligado,22.65,2001.95,36.72
+Microondas,Aquecedor de alimentos,128.45,Ligado,36.0,1205.59,22.61
+Televisão,Eletrônico de entretenimento,122.34,Ligado,30.49,96.93,2.91
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.93,Ligado,21.22,509.11,11.59
+Ar Condicionado,Climatizador de ambiente,221.38,Desligado,24.82,2003.33,47.19
+Microondas,Aquecedor de alimentos,127.5,Ligado,34.14,1203.17,19.56
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.32,Ligado,19.33,501.81,13.84
+Geladeira,Eletrodoméstico de cozinha,221.52,Ligado,3.17,143.82,1.75
+Geladeira,Eletrodoméstico de cozinha,216.98,Ligado,4.56,159.73,1.79
+Ar Condicionado,Climatizador de ambiente,222.27,Desligado,22.6,1990.58,48.02
+Ar Condicionado,Climatizador de ambiente,219.54,Desligado,22.85,2000.91,25.68
+Televisão,Eletrônico de entretenimento,129.42,Ligado,28.45,92.82,1.1
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.07,Ligado,20.63,501.67,8.41
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.34,Ligado,18.36,497.27,8.54
+Ar Condicionado,Climatizador de ambiente,220.37,Desligado,22.83,2006.5,58.67
+Geladeira,Eletrodoméstico de cozinha,217.79,Ligado,4.18,158.69,2.21
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.29,Ligado,18.79,493.31,8.18
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.01,Ligado,19.47,503.56,10.91
+Microondas,Aquecedor de alimentos,123.74,Ligado,34.67,1198.17,32.8
+Geladeira,Eletrodoméstico de cozinha,222.49,Ligado,4.26,150.07,2.54
+Ar Condicionado,Climatizador de ambiente,216.23,Desligado,25.44,2007.15,47.74
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.14,Ligado,20.31,503.94,13.27
+Ar Condicionado,Climatizador de ambiente,224.68,Desligado,23.46,1994.06,33.02
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.34,Ligado,20.91,506.47,10.94
+Televisão,Eletrônico de entretenimento,131.15,Ligado,29.78,96.11,1.84
+Ar Condicionado,Climatizador de ambiente,215.96,Desligado,25.89,2002.27,51.38
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.64,Ligado,18.01,495.74,13.79
+Geladeira,Eletrodoméstico de cozinha,218.71,Ligado,3.97,159.14,4.49
+Microondas,Aquecedor de alimentos,129.79,Ligado,33.62,1192.12,31.79
+Ar Condicionado,Climatizador de ambiente,224.32,Desligado,23.96,2009.11,20.19
+Geladeira,Eletrodoméstico de cozinha,219.32,Ligado,2.82,146.55,3.21
+Ar Condicionado,Climatizador de ambiente,224.03,Desligado,22.92,1996.47,59.38
+Televisão,Eletrônico de entretenimento,123.3,Ligado,30.73,93.38,1.58
+Geladeira,Eletrodoméstico de cozinha,223.12,Ligado,2.76,148.76,2.14
+Microondas,Aquecedor de alimentos,126.56,Ligado,36.05,1193.75,31.71
+Microondas,Aquecedor de alimentos,122.83,Ligado,33.96,1205.87,22.41
+Ar Condicionado,Climatizador de ambiente,219.41,Desligado,23.22,1996.86,57.07
+Ar Condicionado,Climatizador de ambiente,218.35,Desligado,23.69,1994.75,40.9
+Televisão,Eletrônico de entretenimento,130.34,Ligado,28.75,102.77,1.69
+Televisão,Eletrônico de entretenimento,124.69,Ligado,28.77,106.06,1.73
+Ar Condicionado,Climatizador de ambiente,221.18,Desligado,25.3,2007.27,54.89
+Ar Condicionado,Climatizador de ambiente,224.49,Desligado,24.02,1993.1,37.57
+Geladeira,Eletrodoméstico de cozinha,217.17,Ligado,2.5,152.71,3.72
+Geladeira,Eletrodoméstico de cozinha,224.14,Ligado,2.34,155.9,2.24
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.54,Ligado,19.34,505.87,12.48
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.55,Ligado,18.31,490.14,7.0
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.48,Ligado,18.59,503.67,9.84
+Microondas,Aquecedor de alimentos,127.91,Ligado,33.86,1204.53,33.28
+Microondas,Aquecedor de alimentos,131.09,Ligado,33.98,1199.62,34.91
+Microondas,Aquecedor de alimentos,124.56,Ligado,35.32,1194.37,21.43
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.55,Ligado,18.39,506.04,11.64
+Ar Condicionado,Climatizador de ambiente,219.44,Desligado,25.07,2009.65,23.73
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.81,Ligado,18.83,494.88,9.88
+Televisão,Eletrônico de entretenimento,128.86,Ligado,29.09,106.24,1.77
+Microondas,Aquecedor de alimentos,125.07,Ligado,36.27,1205.29,35.12
+Ar Condicionado,Climatizador de ambiente,218.69,Desligado,24.45,2001.4,54.21
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.17,Ligado,18.73,495.81,8.96
+Ar Condicionado,Climatizador de ambiente,218.44,Desligado,23.61,1997.43,47.39
+Ar Condicionado,Climatizador de ambiente,221.38,Desligado,24.25,1992.31,40.01
+Ar Condicionado,Climatizador de ambiente,216.83,Desligado,25.37,2005.84,42.47
+Televisão,Eletrônico de entretenimento,122.64,Ligado,31.03,109.49,3.21
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.16,Ligado,21.38,500.3,8.73
+Microondas,Aquecedor de alimentos,125.93,Ligado,34.98,1203.72,32.44
+Ar Condicionado,Climatizador de ambiente,216.99,Desligado,22.93,1990.49,33.77
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.87,Ligado,19.25,507.21,6.67
+Televisão,Eletrônico de entretenimento,125.24,Ligado,30.84,96.78,2.15
+Ar Condicionado,Climatizador de ambiente,222.92,Desligado,24.16,2008.89,37.53
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.09,Ligado,20.34,495.74,9.0
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.56,Ligado,18.96,506.71,5.7
+Microondas,Aquecedor de alimentos,128.51,Ligado,34.84,1191.34,23.47
+Microondas,Aquecedor de alimentos,130.39,Ligado,34.93,1208.57,22.21
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.9,Ligado,19.62,499.9,6.53
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.1,Ligado,18.84,493.32,5.87
+Geladeira,Eletrodoméstico de cozinha,216.91,Ligado,3.95,153.27,2.85
+Televisão,Eletrônico de entretenimento,126.91,Ligado,28.33,99.0,1.04
+Microondas,Aquecedor de alimentos,122.51,Ligado,33.42,1198.0,30.73
+Microondas,Aquecedor de alimentos,122.27,Ligado,34.34,1202.94,31.18
+Ar Condicionado,Climatizador de ambiente,215.09,Desligado,22.41,1992.69,37.68
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.04,Ligado,21.37,500.87,9.08
+Ar Condicionado,Climatizador de ambiente,221.66,Desligado,23.81,2007.02,44.16
+Geladeira,Eletrodoméstico de cozinha,215.69,Ligado,2.25,153.74,1.97
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.42,Ligado,21.35,507.71,9.6
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.44,Ligado,18.76,490.74,9.14
+Microondas,Aquecedor de alimentos,127.05,Ligado,33.52,1204.35,18.24
+Geladeira,Eletrodoméstico de cozinha,224.62,Ligado,5.64,154.84,3.53
+Ar Condicionado,Climatizador de ambiente,219.96,Desligado,23.83,2009.78,58.83
+Televisão,Eletrônico de entretenimento,125.13,Ligado,30.17,108.49,1.28
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.5,Ligado,20.41,491.51,13.02
+Geladeira,Eletrodoméstico de cozinha,215.19,Ligado,4.34,150.16,2.89
+Geladeira,Eletrodoméstico de cozinha,224.73,Ligado,5.17,159.94,3.73
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.29,Ligado,18.1,491.14,11.12
+Televisão,Eletrônico de entretenimento,124.31,Ligado,28.34,96.7,1.2
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.2,Ligado,18.48,500.14,13.55
+Ar Condicionado,Climatizador de ambiente,215.3,Desligado,24.14,2005.0,25.52
+Geladeira,Eletrodoméstico de cozinha,218.25,Ligado,5.68,152.78,3.16
+Microondas,Aquecedor de alimentos,128.08,Ligado,33.87,1194.87,25.67
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.72,Ligado,19.09,496.9,13.15
+Microondas,Aquecedor de alimentos,122.15,Ligado,33.39,1208.35,31.08
+Televisão,Eletrônico de entretenimento,126.21,Ligado,29.36,93.67,2.5
+Geladeira,Eletrodoméstico de cozinha,224.42,Ligado,3.63,146.11,2.01
+Ar Condicionado,Climatizador de ambiente,221.59,Desligado,25.54,2002.12,31.29
+Televisão,Eletrônico de entretenimento,127.12,Ligado,31.17,90.17,2.17
+Microondas,Aquecedor de alimentos,123.58,Ligado,35.55,1200.77,32.47
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.69,Ligado,20.85,508.59,13.74
+Televisão,Eletrônico de entretenimento,124.34,Ligado,28.43,109.04,2.96
+Microondas,Aquecedor de alimentos,122.59,Ligado,36.76,1209.63,15.84
+Ar Condicionado,Climatizador de ambiente,219.86,Desligado,23.49,2001.1,21.74
+Geladeira,Eletrodoméstico de cozinha,219.83,Ligado,3.73,144.11,3.92
+Ar Condicionado,Climatizador de ambiente,219.67,Desligado,22.29,2001.78,48.33
+Televisão,Eletrônico de entretenimento,127.4,Ligado,31.82,109.37,2.04
+Microondas,Aquecedor de alimentos,130.45,Ligado,36.3,1206.75,16.14
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.25,Ligado,21.47,500.27,8.7
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.88,Ligado,21.54,494.3,6.96
+Geladeira,Eletrodoméstico de cozinha,221.41,Ligado,5.95,149.17,3.81
+Microondas,Aquecedor de alimentos,125.63,Ligado,36.24,1193.53,28.01
+Microondas,Aquecedor de alimentos,129.55,Ligado,33.88,1190.6,17.23
+Televisão,Eletrônico de entretenimento,130.87,Ligado,30.24,93.54,1.28
+Microondas,Aquecedor de alimentos,124.68,Ligado,36.05,1200.92,29.25
+Televisão,Eletrônico de entretenimento,126.92,Ligado,30.92,102.84,1.09
+Geladeira,Eletrodoméstico de cozinha,215.72,Ligado,2.9,146.2,4.15
+Geladeira,Eletrodoméstico de cozinha,215.94,Ligado,5.47,159.52,3.18
+Televisão,Eletrônico de entretenimento,126.47,Ligado,29.5,90.1,2.11
+Televisão,Eletrônico de entretenimento,127.51,Ligado,30.6,107.98,3.16
+Televisão,Eletrônico de entretenimento,127.15,Ligado,28.79,97.75,2.59
+Televisão,Eletrônico de entretenimento,131.49,Ligado,30.23,106.23,2.75
+Microondas,Aquecedor de alimentos,128.49,Ligado,36.62,1196.22,30.82
+Microondas,Aquecedor de alimentos,129.43,Ligado,36.89,1195.46,34.56
+Geladeira,Eletrodoméstico de cozinha,220.82,Ligado,5.21,152.69,4.55
+Geladeira,Eletrodoméstico de cozinha,219.93,Ligado,5.06,158.12,3.33
+Ar Condicionado,Climatizador de ambiente,221.15,Desligado,24.99,1992.72,37.54
+Televisão,Eletrônico de entretenimento,125.98,Ligado,29.32,97.49,2.14
+Geladeira,Eletrodoméstico de cozinha,224.01,Ligado,4.92,146.53,2.42
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.73,Ligado,18.75,499.38,6.7
+Geladeira,Eletrodoméstico de cozinha,215.03,Ligado,5.41,150.88,4.2
+Televisão,Eletrônico de entretenimento,129.27,Ligado,29.43,99.21,2.61
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.55,Ligado,20.82,509.83,6.52
+Televisão,Eletrônico de entretenimento,127.35,Ligado,30.84,92.04,2.75
+Televisão,Eletrônico de entretenimento,124.38,Ligado,30.43,105.9,2.28
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.88,Ligado,18.6,498.19,14.65
+Geladeira,Eletrodoméstico de cozinha,220.72,Ligado,2.8,158.7,4.38
+Geladeira,Eletrodoméstico de cozinha,218.2,Ligado,5.7,141.75,3.38
+Ar Condicionado,Climatizador de ambiente,224.26,Desligado,25.86,2006.72,26.87
+Ar Condicionado,Climatizador de ambiente,223.73,Desligado,25.58,2008.45,27.85
+Ar Condicionado,Climatizador de ambiente,219.56,Desligado,24.96,2003.14,52.54
+Geladeira,Eletrodoméstico de cozinha,220.35,Ligado,3.84,149.65,3.9
+Geladeira,Eletrodoméstico de cozinha,221.48,Ligado,2.31,150.6,1.52
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.19,Ligado,19.07,494.16,8.36
+Ar Condicionado,Climatizador de ambiente,222.91,Desligado,23.51,1997.02,40.8
+Geladeira,Eletrodoméstico de cozinha,221.97,Ligado,4.89,158.59,2.21
+Televisão,Eletrônico de entretenimento,126.18,Ligado,29.08,105.45,2.08
+Ar Condicionado,Climatizador de ambiente,218.18,Desligado,25.57,2003.14,34.26
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.71,Ligado,21.31,499.01,13.98
+Televisão,Eletrônico de entretenimento,124.12,Ligado,30.47,95.92,2.76
+Microondas,Aquecedor de alimentos,125.83,Ligado,35.42,1209.99,24.38
+Geladeira,Eletrodoméstico de cozinha,224.69,Ligado,2.89,148.42,4.05
+Televisão,Eletrônico de entretenimento,122.66,Ligado,31.22,103.92,1.66
+Microondas,Aquecedor de alimentos,130.03,Ligado,35.74,1197.64,25.58
+Ar Condicionado,Climatizador de ambiente,220.25,Desligado,25.44,2007.66,40.51
+Ar Condicionado,Climatizador de ambiente,220.07,Desligado,24.13,2004.74,58.66
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.44,Ligado,21.28,506.86,12.18
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.0,Ligado,18.43,506.47,11.56
+Televisão,Eletrônico de entretenimento,126.62,Ligado,29.29,103.5,2.8
+Geladeira,Eletrodoméstico de cozinha,218.32,Ligado,3.47,154.77,3.8
+Televisão,Eletrônico de entretenimento,125.16,Ligado,30.49,108.48,3.09
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.75,Ligado,21.84,500.73,12.51
+Geladeira,Eletrodoméstico de cozinha,222.26,Ligado,3.72,146.15,3.58
+Geladeira,Eletrodoméstico de cozinha,223.12,Ligado,5.32,157.96,3.19
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.63,Ligado,20.25,499.0,11.43
+Televisão,Eletrônico de entretenimento,122.99,Ligado,30.33,90.54,1.93
+Geladeira,Eletrodoméstico de cozinha,221.86,Ligado,3.53,148.8,4.06
+Televisão,Eletrônico de entretenimento,124.98,Ligado,29.14,90.07,1.13
+Geladeira,Eletrodoméstico de cozinha,221.82,Ligado,2.3,140.21,1.71
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.52,Ligado,18.97,504.49,14.86
+Microondas,Aquecedor de alimentos,124.3,Ligado,35.46,1205.12,21.59
+Ar Condicionado,Climatizador de ambiente,216.74,Desligado,22.56,2005.27,58.28
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.23,Ligado,21.63,502.37,8.6
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.64,Ligado,18.52,502.28,9.12
+Televisão,Eletrônico de entretenimento,127.47,Ligado,28.94,107.13,1.67
+Microondas,Aquecedor de alimentos,131.34,Ligado,36.9,1207.17,12.53
+Ar Condicionado,Climatizador de ambiente,222.79,Desligado,24.32,2003.28,46.51
+Geladeira,Eletrodoméstico de cozinha,219.09,Ligado,3.63,142.25,3.49
+Microondas,Aquecedor de alimentos,122.5,Ligado,36.88,1202.8,20.44
+Ar Condicionado,Climatizador de ambiente,215.86,Desligado,25.5,1991.33,30.42
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.17,Ligado,18.99,498.68,9.52
+Microondas,Aquecedor de alimentos,126.37,Ligado,33.22,1195.27,29.63
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.81,Ligado,18.81,499.0,7.58
+Geladeira,Eletrodoméstico de cozinha,221.95,Ligado,2.3,159.82,1.96
+Geladeira,Eletrodoméstico de cozinha,215.64,Ligado,4.85,143.06,3.31
+Geladeira,Eletrodoméstico de cozinha,215.81,Ligado,4.36,154.01,1.8
+Televisão,Eletrônico de entretenimento,126.63,Ligado,31.62,107.08,1.26
+Geladeira,Eletrodoméstico de cozinha,218.11,Ligado,2.16,154.17,2.42
+Geladeira,Eletrodoméstico de cozinha,220.1,Ligado,4.87,148.55,2.56
+Televisão,Eletrônico de entretenimento,128.83,Ligado,29.67,107.79,2.22
+Televisão,Eletrônico de entretenimento,126.49,Ligado,29.86,94.86,2.3
+Televisão,Eletrônico de entretenimento,129.4,Ligado,28.27,90.59,1.34
+Microondas,Aquecedor de alimentos,129.12,Ligado,33.15,1207.94,27.88
+Ar Condicionado,Climatizador de ambiente,224.65,Desligado,25.08,1998.26,56.84
+Ar Condicionado,Climatizador de ambiente,218.95,Desligado,23.87,2009.59,46.9
+Ar Condicionado,Climatizador de ambiente,221.09,Desligado,25.06,1997.67,43.35
+Televisão,Eletrônico de entretenimento,125.57,Ligado,30.44,90.24,1.93
+Microondas,Aquecedor de alimentos,125.51,Ligado,36.92,1202.33,26.96
+Microondas,Aquecedor de alimentos,129.92,Ligado,33.73,1190.04,33.12
+Ar Condicionado,Climatizador de ambiente,220.15,Desligado,25.18,1991.36,54.17
+Microondas,Aquecedor de alimentos,126.15,Ligado,33.05,1201.75,36.04
+Ar Condicionado,Climatizador de ambiente,217.78,Desligado,22.92,1997.27,25.12
+Ar Condicionado,Climatizador de ambiente,223.57,Desligado,22.96,1995.95,43.26
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.4,Ligado,19.45,494.03,13.97
+Microondas,Aquecedor de alimentos,127.19,Ligado,34.35,1204.48,30.53
+Geladeira,Eletrodoméstico de cozinha,220.66,Ligado,3.77,142.73,4.04
+Ar Condicionado,Climatizador de ambiente,224.34,Desligado,25.07,2008.93,52.98
+Televisão,Eletrônico de entretenimento,130.48,Ligado,29.95,102.68,2.73
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.24,Ligado,19.57,492.22,10.19
+Geladeira,Eletrodoméstico de cozinha,222.22,Ligado,3.98,153.89,1.58
+Televisão,Eletrônico de entretenimento,124.9,Ligado,31.18,102.45,2.78
+Microondas,Aquecedor de alimentos,125.31,Ligado,36.37,1200.93,13.71
+Geladeira,Eletrodoméstico de cozinha,215.49,Ligado,3.49,146.16,3.5
+Ar Condicionado,Climatizador de ambiente,217.32,Desligado,23.67,2000.65,26.14
+Microondas,Aquecedor de alimentos,125.11,Ligado,36.06,1190.62,20.44
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.5,Ligado,20.75,493.68,9.87
+Microondas,Aquecedor de alimentos,127.1,Ligado,35.98,1200.77,14.36
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.62,Ligado,21.2,504.38,10.55
+Geladeira,Eletrodoméstico de cozinha,224.94,Ligado,4.89,151.04,3.01
+Televisão,Eletrônico de entretenimento,129.39,Ligado,31.77,91.39,1.38
+Microondas,Aquecedor de alimentos,126.58,Ligado,35.62,1200.31,21.63
+Televisão,Eletrônico de entretenimento,124.17,Ligado,28.08,102.33,1.04
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.54,Ligado,20.17,495.03,12.62
+Geladeira,Eletrodoméstico de cozinha,219.2,Ligado,4.73,148.48,3.59
+Televisão,Eletrônico de entretenimento,127.66,Ligado,30.74,99.37,1.74
+Geladeira,Eletrodoméstico de cozinha,219.93,Ligado,5.49,147.63,3.62
+Geladeira,Eletrodoméstico de cozinha,221.3,Ligado,3.48,141.07,3.54
+Ar Condicionado,Climatizador de ambiente,216.9,Desligado,23.01,1994.41,39.48
+Geladeira,Eletrodoméstico de cozinha,215.47,Ligado,2.44,150.65,2.35
+Microondas,Aquecedor de alimentos,124.51,Ligado,33.35,1201.64,34.01
+Ar Condicionado,Climatizador de ambiente,221.04,Desligado,23.68,2000.83,36.71
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.77,Ligado,19.64,501.9,7.53
+Ar Condicionado,Climatizador de ambiente,222.45,Desligado,23.67,1995.71,46.75
+Geladeira,Eletrodoméstico de cozinha,219.7,Ligado,3.0,146.76,3.16
+Microondas,Aquecedor de alimentos,131.28,Ligado,36.9,1204.33,16.47
+Televisão,Eletrônico de entretenimento,122.99,Ligado,28.41,91.12,1.38
+Geladeira,Eletrodoméstico de cozinha,216.26,Ligado,5.56,154.22,4.21
+Ar Condicionado,Climatizador de ambiente,220.99,Desligado,25.02,1991.02,47.61
+Ar Condicionado,Climatizador de ambiente,222.42,Desligado,25.48,2002.55,40.12
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.0,Ligado,18.95,492.87,8.26
+Geladeira,Eletrodoméstico de cozinha,215.4,Ligado,3.34,152.15,2.08
+Geladeira,Eletrodoméstico de cozinha,216.77,Ligado,4.38,142.2,2.35
+Ar Condicionado,Climatizador de ambiente,217.87,Desligado,23.63,2007.47,50.51
+Geladeira,Eletrodoméstico de cozinha,218.65,Ligado,4.16,140.01,2.62
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.63,Ligado,18.26,502.43,6.77
+Televisão,Eletrônico de entretenimento,124.4,Ligado,29.83,108.02,2.23
+Microondas,Aquecedor de alimentos,129.43,Ligado,36.77,1191.91,33.76
+Ar Condicionado,Climatizador de ambiente,218.9,Desligado,24.91,2007.73,36.3
+Ar Condicionado,Climatizador de ambiente,218.15,Desligado,24.85,2005.94,29.88
+Geladeira,Eletrodoméstico de cozinha,223.22,Ligado,3.62,156.26,2.86
+Ar Condicionado,Climatizador de ambiente,220.47,Desligado,25.29,1992.68,23.31
+Ar Condicionado,Climatizador de ambiente,218.18,Desligado,25.93,1999.01,58.95
+Geladeira,Eletrodoméstico de cozinha,219.1,Ligado,2.28,156.32,4.21
+Ar Condicionado,Climatizador de ambiente,216.27,Desligado,24.54,1997.88,44.09
+Microondas,Aquecedor de alimentos,122.75,Ligado,35.27,1194.16,26.15
+Ar Condicionado,Climatizador de ambiente,215.24,Desligado,25.59,2000.75,33.34
+Televisão,Eletrônico de entretenimento,131.49,Ligado,30.31,104.88,1.73
+Televisão,Eletrônico de entretenimento,131.05,Ligado,31.05,92.34,2.37
+Ar Condicionado,Climatizador de ambiente,221.98,Desligado,23.19,1997.28,25.98
+Ar Condicionado,Climatizador de ambiente,222.39,Desligado,25.7,1997.73,45.41
+Televisão,Eletrônico de entretenimento,130.3,Ligado,28.77,109.11,1.8
+Geladeira,Eletrodoméstico de cozinha,222.34,Ligado,3.53,151.23,3.32
+Microondas,Aquecedor de alimentos,128.74,Ligado,33.43,1196.78,21.03
+Geladeira,Eletrodoméstico de cozinha,217.79,Ligado,4.41,144.87,3.59
+Ar Condicionado,Climatizador de ambiente,221.09,Desligado,22.28,1991.19,51.09
+Microondas,Aquecedor de alimentos,131.52,Ligado,34.4,1203.59,23.66
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.0,Ligado,18.84,495.45,9.81
+Ar Condicionado,Climatizador de ambiente,223.73,Desligado,23.7,1993.33,30.91
+Ar Condicionado,Climatizador de ambiente,220.06,Desligado,24.27,2005.92,59.66
+Microondas,Aquecedor de alimentos,128.28,Ligado,34.31,1194.13,22.34
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.08,Ligado,21.11,501.14,9.05
+Ar Condicionado,Climatizador de ambiente,215.95,Desligado,22.76,2002.79,52.94
+Geladeira,Eletrodoméstico de cozinha,217.79,Ligado,3.61,152.7,4.55
+Geladeira,Eletrodoméstico de cozinha,217.07,Ligado,5.31,155.41,3.7
+Microondas,Aquecedor de alimentos,122.46,Ligado,33.69,1207.97,30.57
+Ar Condicionado,Climatizador de ambiente,216.29,Desligado,24.47,2005.9,33.38
+Microondas,Aquecedor de alimentos,125.93,Ligado,36.42,1208.84,18.9
+Microondas,Aquecedor de alimentos,127.46,Ligado,34.92,1194.88,35.1
+Geladeira,Eletrodoméstico de cozinha,222.24,Ligado,2.16,159.63,4.61
+Geladeira,Eletrodoméstico de cozinha,215.51,Ligado,3.77,144.75,3.04
+Televisão,Eletrônico de entretenimento,123.24,Ligado,30.51,100.54,2.84
+Microondas,Aquecedor de alimentos,130.96,Ligado,35.19,1191.6,19.0
+Geladeira,Eletrodoméstico de cozinha,215.32,Ligado,5.28,140.04,2.31
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.06,Ligado,21.43,508.63,7.05
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.14,Ligado,21.03,505.84,13.58
+Microondas,Aquecedor de alimentos,123.91,Ligado,35.13,1205.51,21.55
+Televisão,Eletrônico de entretenimento,123.16,Ligado,30.65,95.95,0.97
+Televisão,Eletrônico de entretenimento,129.9,Ligado,29.15,99.49,1.02
+Televisão,Eletrônico de entretenimento,131.01,Ligado,31.72,93.35,1.1
+Microondas,Aquecedor de alimentos,126.56,Ligado,34.43,1204.05,17.43
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.42,Ligado,21.23,495.94,5.33
+Televisão,Eletrônico de entretenimento,127.02,Ligado,29.09,93.14,2.44
+Geladeira,Eletrodoméstico de cozinha,217.82,Ligado,3.04,157.18,3.58
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.81,Ligado,18.07,499.11,13.01
+Microondas,Aquecedor de alimentos,125.75,Ligado,33.43,1208.09,23.58
+Televisão,Eletrônico de entretenimento,125.91,Ligado,30.95,99.68,1.6
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.33,Ligado,21.44,498.69,8.48
+Microondas,Aquecedor de alimentos,122.18,Ligado,34.34,1193.93,20.58
+Microondas,Aquecedor de alimentos,130.17,Ligado,35.51,1190.75,22.62
+Televisão,Eletrônico de entretenimento,123.35,Ligado,30.67,101.37,2.74
+Ar Condicionado,Climatizador de ambiente,220.48,Desligado,25.23,1995.18,56.71
+Televisão,Eletrônico de entretenimento,130.21,Ligado,29.29,96.89,1.3
+Geladeira,Eletrodoméstico de cozinha,221.48,Ligado,2.38,156.1,2.34
+Geladeira,Eletrodoméstico de cozinha,223.42,Ligado,3.26,142.05,3.05
+Televisão,Eletrônico de entretenimento,127.27,Ligado,28.62,93.83,2.36
+Ar Condicionado,Climatizador de ambiente,222.18,Desligado,23.5,2000.73,47.35
+Microondas,Aquecedor de alimentos,130.03,Ligado,35.37,1193.23,15.5
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.84,Ligado,18.7,500.45,8.25
+Microondas,Aquecedor de alimentos,128.97,Ligado,34.19,1201.94,30.64
+Ar Condicionado,Climatizador de ambiente,224.5,Desligado,23.11,1998.27,28.17
+Microondas,Aquecedor de alimentos,129.24,Ligado,36.8,1193.26,22.9
+Ar Condicionado,Climatizador de ambiente,219.34,Desligado,23.18,2004.14,40.02
+Ar Condicionado,Climatizador de ambiente,219.06,Desligado,24.88,1999.67,35.3
+Televisão,Eletrônico de entretenimento,125.66,Ligado,31.44,104.7,1.11
+Ar Condicionado,Climatizador de ambiente,217.47,Desligado,25.14,2008.74,58.85
+Televisão,Eletrônico de entretenimento,128.18,Ligado,31.92,109.06,2.81
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.44,Ligado,20.96,506.94,9.45
+Microondas,Aquecedor de alimentos,126.87,Ligado,36.06,1197.01,34.86
+Microondas,Aquecedor de alimentos,123.14,Ligado,35.56,1200.12,27.96
+Televisão,Eletrônico de entretenimento,127.02,Ligado,28.56,93.03,1.48
+Geladeira,Eletrodoméstico de cozinha,216.66,Ligado,3.89,145.62,2.5
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.73,Ligado,19.85,492.25,13.86
+Televisão,Eletrônico de entretenimento,130.82,Ligado,32.0,109.1,1.91
+Geladeira,Eletrodoméstico de cozinha,218.01,Ligado,5.28,157.67,4.59
+Televisão,Eletrônico de entretenimento,126.39,Ligado,31.83,92.19,1.53
+Geladeira,Eletrodoméstico de cozinha,223.84,Ligado,3.71,150.13,1.99
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.41,Ligado,20.02,507.89,8.46
+Televisão,Eletrônico de entretenimento,124.61,Ligado,28.52,109.43,2.22
+Geladeira,Eletrodoméstico de cozinha,217.97,Ligado,3.49,146.73,3.13
+Televisão,Eletrônico de entretenimento,131.45,Ligado,28.46,100.6,1.03
+Geladeira,Eletrodoméstico de cozinha,216.85,Ligado,4.88,143.26,1.75
+Microondas,Aquecedor de alimentos,129.6,Ligado,34.49,1205.48,13.04
+Geladeira,Eletrodoméstico de cozinha,224.8,Ligado,3.1,154.36,4.46
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.94,Ligado,20.95,504.32,8.21
+Televisão,Eletrônico de entretenimento,129.98,Ligado,30.72,99.75,1.26
+Geladeira,Eletrodoméstico de cozinha,224.02,Ligado,5.42,141.03,1.81
+Ar Condicionado,Climatizador de ambiente,217.52,Desligado,22.41,2009.24,47.87
+Televisão,Eletrônico de entretenimento,123.47,Ligado,28.74,105.75,2.71
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.69,Ligado,21.34,496.74,11.09
+Televisão,Eletrônico de entretenimento,123.85,Ligado,31.36,99.88,1.18
+Ar Condicionado,Climatizador de ambiente,222.95,Desligado,22.59,1996.79,55.36
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.02,Ligado,20.8,490.08,9.57
+Microondas,Aquecedor de alimentos,123.26,Ligado,33.96,1194.31,15.69
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.07,Ligado,18.55,506.28,6.34
+Geladeira,Eletrodoméstico de cozinha,217.55,Ligado,5.87,153.12,3.47
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.18,Ligado,19.69,498.36,11.6
+Ar Condicionado,Climatizador de ambiente,218.82,Desligado,23.74,2000.94,56.3
+Ar Condicionado,Climatizador de ambiente,215.34,Desligado,23.37,1996.0,56.29
+Geladeira,Eletrodoméstico de cozinha,223.89,Ligado,3.62,145.63,2.45
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.29,Ligado,21.38,495.96,9.65
+Geladeira,Eletrodoméstico de cozinha,223.32,Ligado,4.63,141.11,2.43
+Televisão,Eletrônico de entretenimento,125.76,Ligado,31.68,104.96,1.2
+Microondas,Aquecedor de alimentos,126.96,Ligado,35.16,1194.68,16.2
+Microondas,Aquecedor de alimentos,123.82,Ligado,34.78,1192.89,26.51
+Microondas,Aquecedor de alimentos,123.06,Ligado,36.64,1205.27,29.06
+Ar Condicionado,Climatizador de ambiente,222.79,Desligado,23.85,1991.56,59.44
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.65,Ligado,19.8,502.55,7.5
+Microondas,Aquecedor de alimentos,127.65,Ligado,34.27,1202.84,13.43
+Ar Condicionado,Climatizador de ambiente,216.94,Desligado,23.64,2002.27,44.56
+Televisão,Eletrônico de entretenimento,130.56,Ligado,30.9,103.62,2.25
+Televisão,Eletrônico de entretenimento,129.37,Ligado,29.37,104.24,3.09
+Microondas,Aquecedor de alimentos,124.2,Ligado,36.67,1191.24,21.4
+Televisão,Eletrônico de entretenimento,127.57,Ligado,29.86,93.82,1.97
+Ar Condicionado,Climatizador de ambiente,222.35,Desligado,22.1,2003.95,55.57
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.72,Ligado,20.3,491.83,14.61
+Microondas,Aquecedor de alimentos,122.03,Ligado,35.92,1204.03,34.21
+Microondas,Aquecedor de alimentos,124.98,Ligado,33.66,1193.81,19.35
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.49,Ligado,21.82,500.43,7.55
+Geladeira,Eletrodoméstico de cozinha,215.1,Ligado,4.93,150.34,4.3
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.65,Ligado,21.07,498.09,8.98
+Geladeira,Eletrodoméstico de cozinha,215.16,Ligado,4.59,158.34,2.57
+Televisão,Eletrônico de entretenimento,129.63,Ligado,31.82,100.35,2.44
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.64,Ligado,18.16,500.72,14.61
+Ar Condicionado,Climatizador de ambiente,217.96,Desligado,22.33,2006.73,26.19
+Microondas,Aquecedor de alimentos,122.41,Ligado,35.64,1205.47,14.22
+Ar Condicionado,Climatizador de ambiente,215.8,Desligado,25.44,1991.84,33.26
+Televisão,Eletrônico de entretenimento,125.67,Ligado,30.97,97.84,1.24
+Ar Condicionado,Climatizador de ambiente,218.81,Desligado,25.49,1992.84,47.89
+Ar Condicionado,Climatizador de ambiente,224.92,Desligado,24.49,1997.73,40.57
+Microondas,Aquecedor de alimentos,129.9,Ligado,33.09,1204.27,16.39
+Microondas,Aquecedor de alimentos,126.62,Ligado,34.77,1198.58,27.48
+Ar Condicionado,Climatizador de ambiente,220.53,Desligado,22.51,1991.57,35.45
+Microondas,Aquecedor de alimentos,123.78,Ligado,35.67,1194.11,15.37
+Microondas,Aquecedor de alimentos,129.44,Ligado,35.29,1196.96,31.02
+Televisão,Eletrônico de entretenimento,128.75,Ligado,30.26,102.3,1.52
+Televisão,Eletrônico de entretenimento,128.04,Ligado,31.01,94.17,2.78
+Microondas,Aquecedor de alimentos,123.87,Ligado,33.85,1193.38,14.07
+Ar Condicionado,Climatizador de ambiente,221.73,Desligado,23.15,1991.61,44.8
+Geladeira,Eletrodoméstico de cozinha,224.08,Ligado,4.4,147.58,4.37
+Ar Condicionado,Climatizador de ambiente,215.29,Desligado,24.04,1994.01,32.68
+Geladeira,Eletrodoméstico de cozinha,219.53,Ligado,5.09,159.7,3.25
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.81,Ligado,21.22,498.42,7.02
+Microondas,Aquecedor de alimentos,124.95,Ligado,35.88,1200.98,12.45
+Microondas,Aquecedor de alimentos,125.33,Ligado,34.46,1193.85,22.12
+Televisão,Eletrônico de entretenimento,124.76,Ligado,30.17,98.93,2.09
+Ar Condicionado,Climatizador de ambiente,220.46,Desligado,23.76,1999.99,41.76
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.32,Ligado,20.41,494.18,9.86
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.56,Ligado,21.17,497.5,5.26
+Televisão,Eletrônico de entretenimento,124.67,Ligado,28.6,103.68,1.28
+Televisão,Eletrônico de entretenimento,127.09,Ligado,28.81,104.06,1.66
+Ar Condicionado,Climatizador de ambiente,216.11,Desligado,22.93,2001.64,57.81
+Geladeira,Eletrodoméstico de cozinha,217.06,Ligado,3.4,149.67,1.99
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.26,Ligado,21.47,498.57,11.2
+Geladeira,Eletrodoméstico de cozinha,217.48,Ligado,5.31,141.11,2.79
+Microondas,Aquecedor de alimentos,131.87,Ligado,33.6,1200.05,27.82
+Geladeira,Eletrodoméstico de cozinha,224.48,Ligado,2.83,155.23,4.32
+Televisão,Eletrônico de entretenimento,129.25,Ligado,30.64,106.82,3.12
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.13,Ligado,18.56,492.08,9.8
+Televisão,Eletrônico de entretenimento,128.09,Ligado,28.68,101.17,1.93
+Ar Condicionado,Climatizador de ambiente,220.44,Desligado,24.62,1992.17,52.1
+Ar Condicionado,Climatizador de ambiente,216.92,Desligado,23.45,2000.7,42.74
+Geladeira,Eletrodoméstico de cozinha,215.79,Ligado,4.7,157.24,1.91
+Geladeira,Eletrodoméstico de cozinha,215.58,Ligado,5.52,148.65,1.75
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.81,Ligado,21.95,509.09,6.61
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.27,Ligado,18.95,495.25,10.51
+Geladeira,Eletrodoméstico de cozinha,218.78,Ligado,5.47,142.68,1.78
+Televisão,Eletrônico de entretenimento,122.96,Ligado,28.11,99.38,1.06
+Televisão,Eletrônico de entretenimento,125.89,Ligado,30.8,95.08,1.63
+Geladeira,Eletrodoméstico de cozinha,219.83,Ligado,2.8,159.92,3.22
+Microondas,Aquecedor de alimentos,127.63,Ligado,35.55,1197.98,22.63
+Microondas,Aquecedor de alimentos,126.03,Ligado,36.84,1204.89,17.28
+Ar Condicionado,Climatizador de ambiente,221.76,Desligado,22.03,1999.81,30.88
+Televisão,Eletrônico de entretenimento,123.63,Ligado,31.04,95.75,1.49
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.99,Ligado,21.1,496.85,13.95
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.91,Ligado,20.17,498.81,6.21
+Ar Condicionado,Climatizador de ambiente,217.67,Desligado,22.4,2007.83,43.34
+Geladeira,Eletrodoméstico de cozinha,222.57,Ligado,3.79,158.35,1.8
+Televisão,Eletrônico de entretenimento,126.8,Ligado,28.83,97.83,1.31
+Ar Condicionado,Climatizador de ambiente,215.64,Desligado,22.15,2000.49,42.92
+Televisão,Eletrônico de entretenimento,130.4,Ligado,29.93,98.13,1.21
+Televisão,Eletrônico de entretenimento,122.93,Ligado,29.32,94.85,1.7
+Geladeira,Eletrodoméstico de cozinha,223.81,Ligado,4.16,148.49,1.71
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.2,Ligado,19.07,497.63,9.26
+Microondas,Aquecedor de alimentos,130.85,Ligado,34.04,1199.26,15.38
+Microondas,Aquecedor de alimentos,128.39,Ligado,36.7,1192.45,16.13
+Microondas,Aquecedor de alimentos,125.16,Ligado,36.64,1196.69,19.45
+Microondas,Aquecedor de alimentos,127.98,Ligado,34.33,1202.91,34.27
+Ar Condicionado,Climatizador de ambiente,219.27,Desligado,23.39,1994.07,25.57
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.08,Ligado,21.67,495.26,7.63
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.61,Ligado,20.11,495.44,6.58
+Ar Condicionado,Climatizador de ambiente,223.17,Desligado,25.11,1997.11,38.34
+Televisão,Eletrônico de entretenimento,131.17,Ligado,31.09,103.83,2.26
+Microondas,Aquecedor de alimentos,127.51,Ligado,34.13,1208.96,17.31
+Microondas,Aquecedor de alimentos,127.41,Ligado,36.25,1196.92,35.45
+Televisão,Eletrônico de entretenimento,123.54,Ligado,31.06,93.15,1.81
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.77,Ligado,20.74,498.28,13.19
+Microondas,Aquecedor de alimentos,124.39,Ligado,35.21,1209.43,25.99
+Geladeira,Eletrodoméstico de cozinha,216.96,Ligado,4.93,153.78,4.12
+Televisão,Eletrônico de entretenimento,128.23,Ligado,30.44,109.74,1.18
+Microondas,Aquecedor de alimentos,128.4,Ligado,36.75,1208.55,26.32
+Geladeira,Eletrodoméstico de cozinha,220.06,Ligado,4.21,142.32,2.67
+Microondas,Aquecedor de alimentos,126.4,Ligado,36.32,1195.56,26.33
+Televisão,Eletrônico de entretenimento,125.14,Ligado,31.3,91.87,1.56
+Ar Condicionado,Climatizador de ambiente,224.0,Desligado,24.11,2000.47,43.87
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.99,Ligado,18.39,497.26,13.22
+Ar Condicionado,Climatizador de ambiente,224.75,Desligado,22.2,1993.28,29.54
+Televisão,Eletrônico de entretenimento,130.15,Ligado,29.05,107.03,2.36
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.59,Ligado,18.92,504.8,14.02
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.56,Ligado,20.9,500.3,6.43
+Ar Condicionado,Climatizador de ambiente,217.23,Desligado,23.46,2002.1,29.4
+Ar Condicionado,Climatizador de ambiente,221.59,Desligado,25.76,2009.35,48.53
+Televisão,Eletrônico de entretenimento,131.04,Ligado,28.85,106.4,1.66
+Microondas,Aquecedor de alimentos,131.64,Ligado,34.13,1200.47,18.44
+Microondas,Aquecedor de alimentos,123.77,Ligado,34.15,1206.23,13.45
+Televisão,Eletrônico de entretenimento,124.46,Ligado,29.77,91.15,2.47
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.37,Ligado,19.5,502.07,6.17
+Geladeira,Eletrodoméstico de cozinha,224.15,Ligado,2.06,153.46,4.01
+Geladeira,Eletrodoméstico de cozinha,216.96,Ligado,3.87,152.55,3.41
+Ar Condicionado,Climatizador de ambiente,216.4,Desligado,25.25,2009.95,28.7
+Ar Condicionado,Climatizador de ambiente,220.85,Desligado,23.78,2004.73,20.25
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.03,Ligado,21.01,508.34,14.13
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.06,Ligado,19.75,499.25,14.86
+Ar Condicionado,Climatizador de ambiente,220.68,Desligado,22.41,2008.88,40.18
+Ar Condicionado,Climatizador de ambiente,219.94,Desligado,23.01,2006.57,34.67
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.97,Ligado,19.58,496.22,10.46
+Geladeira,Eletrodoméstico de cozinha,222.91,Ligado,5.54,147.62,4.03
+Geladeira,Eletrodoméstico de cozinha,224.76,Ligado,5.57,140.45,3.35
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.45,Ligado,19.53,501.89,10.83
+Microondas,Aquecedor de alimentos,122.89,Ligado,35.14,1209.18,22.29
+Televisão,Eletrônico de entretenimento,130.86,Ligado,29.49,101.78,1.45
+Geladeira,Eletrodoméstico de cozinha,217.97,Ligado,2.06,150.19,3.71
+Televisão,Eletrônico de entretenimento,129.62,Ligado,31.32,94.08,1.77
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.93,Ligado,18.81,502.31,10.03
+Televisão,Eletrônico de entretenimento,128.85,Ligado,30.0,93.24,1.41
+Televisão,Eletrônico de entretenimento,131.36,Ligado,31.04,95.48,1.68
+Microondas,Aquecedor de alimentos,124.73,Ligado,35.23,1203.84,18.72
+Ar Condicionado,Climatizador de ambiente,217.21,Desligado,22.85,2001.37,39.98
+Geladeira,Eletrodoméstico de cozinha,222.62,Ligado,3.22,149.41,3.78
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.74,Ligado,18.54,492.58,6.54
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.0,Ligado,19.94,496.48,14.04
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.17,Ligado,20.23,500.8,10.33
+Televisão,Eletrônico de entretenimento,130.74,Ligado,30.6,96.07,1.92
+Geladeira,Eletrodoméstico de cozinha,215.29,Ligado,4.88,153.38,3.41
+Microondas,Aquecedor de alimentos,128.81,Ligado,36.44,1194.86,19.3
+Ar Condicionado,Climatizador de ambiente,216.99,Desligado,24.78,1993.04,39.42
+Ar Condicionado,Climatizador de ambiente,224.82,Desligado,24.17,2003.91,46.25
+Televisão,Eletrônico de entretenimento,126.1,Ligado,28.76,100.23,2.17
+Televisão,Eletrônico de entretenimento,127.14,Ligado,30.29,109.36,2.91
+Máquina de Lavar,Eletrodoméstico de lavanderia,224.55,Ligado,21.06,496.72,8.1
+Microondas,Aquecedor de alimentos,124.87,Ligado,34.94,1196.35,13.02
+Geladeira,Eletrodoméstico de cozinha,216.22,Ligado,2.36,142.43,2.13
+Televisão,Eletrônico de entretenimento,127.33,Ligado,29.01,97.0,1.66
+Televisão,Eletrônico de entretenimento,125.21,Ligado,30.2,96.7,1.9
+Microondas,Aquecedor de alimentos,129.85,Ligado,35.6,1206.01,22.81
+Geladeira,Eletrodoméstico de cozinha,216.19,Ligado,2.59,153.49,2.37
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.41,Ligado,20.12,505.31,15.03
+Ar Condicionado,Climatizador de ambiente,215.89,Desligado,25.33,1993.02,51.44
+Ar Condicionado,Climatizador de ambiente,224.17,Desligado,23.43,1995.44,52.75
+Ar Condicionado,Climatizador de ambiente,221.29,Desligado,22.89,2002.62,33.74
+Televisão,Eletrônico de entretenimento,128.3,Ligado,29.8,106.12,2.09
+Microondas,Aquecedor de alimentos,130.9,Ligado,36.77,1199.75,28.92
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.12,Ligado,21.09,507.95,11.56
+Microondas,Aquecedor de alimentos,122.34,Ligado,33.65,1209.35,35.34
+Ar Condicionado,Climatizador de ambiente,216.88,Desligado,24.8,1997.62,20.7
+Geladeira,Eletrodoméstico de cozinha,221.83,Ligado,4.01,142.92,2.89
+Geladeira,Eletrodoméstico de cozinha,223.8,Ligado,3.38,151.64,2.7
+Geladeira,Eletrodoméstico de cozinha,217.03,Ligado,2.17,152.58,2.27
+Ar Condicionado,Climatizador de ambiente,220.4,Desligado,22.19,2006.93,31.66
+Ar Condicionado,Climatizador de ambiente,221.44,Desligado,23.39,2001.04,50.93
+Geladeira,Eletrodoméstico de cozinha,215.72,Ligado,2.97,144.43,2.91
+Geladeira,Eletrodoméstico de cozinha,216.14,Ligado,5.07,146.11,2.38
+Geladeira,Eletrodoméstico de cozinha,221.27,Ligado,4.95,154.87,3.5
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.62,Ligado,21.76,497.79,11.75
+Geladeira,Eletrodoméstico de cozinha,217.19,Ligado,5.15,157.67,2.4
+Geladeira,Eletrodoméstico de cozinha,220.83,Ligado,5.25,155.62,3.25
+Ar Condicionado,Climatizador de ambiente,217.7,Desligado,25.38,1996.28,31.74
+Microondas,Aquecedor de alimentos,123.68,Ligado,33.44,1196.89,22.41
+Ar Condicionado,Climatizador de ambiente,221.07,Desligado,25.34,1995.64,27.42
+Televisão,Eletrônico de entretenimento,122.66,Ligado,28.08,100.55,2.74
+Microondas,Aquecedor de alimentos,131.76,Ligado,36.0,1194.37,20.59
+Ar Condicionado,Climatizador de ambiente,216.58,Desligado,22.9,2002.07,57.26
+Máquina de Lavar,Eletrodoméstico de lavanderia,215.46,Ligado,19.35,506.98,5.75
+Ar Condicionado,Climatizador de ambiente,220.44,Desligado,24.93,1999.04,39.25
+Ar Condicionado,Climatizador de ambiente,224.31,Desligado,24.82,1996.64,44.61
+Microondas,Aquecedor de alimentos,123.22,Ligado,33.68,1206.65,32.05
+Televisão,Eletrônico de entretenimento,130.97,Ligado,30.96,90.19,1.3
+Ar Condicionado,Climatizador de ambiente,223.71,Desligado,24.23,1995.77,26.93
+Geladeira,Eletrodoméstico de cozinha,221.65,Ligado,4.0,153.52,4.05
+Geladeira,Eletrodoméstico de cozinha,216.76,Ligado,4.49,154.47,3.7
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.1,Ligado,21.28,492.71,8.01
+Televisão,Eletrônico de entretenimento,126.16,Ligado,28.6,106.89,1.93
+Ar Condicionado,Climatizador de ambiente,223.86,Desligado,24.89,1991.78,22.68
+Ar Condicionado,Climatizador de ambiente,216.26,Desligado,23.25,2006.25,52.88
+Ar Condicionado,Climatizador de ambiente,220.03,Desligado,22.43,2004.13,41.96
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.95,Ligado,18.21,496.35,5.64
+Geladeira,Eletrodoméstico de cozinha,223.79,Ligado,4.07,141.92,3.83
+Ar Condicionado,Climatizador de ambiente,224.94,Desligado,24.96,1993.4,58.18
+Televisão,Eletrônico de entretenimento,127.42,Ligado,29.4,90.09,2.6
+Televisão,Eletrônico de entretenimento,131.75,Ligado,29.2,105.19,2.04
+Microondas,Aquecedor de alimentos,126.41,Ligado,34.62,1201.05,35.42
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.01,Ligado,19.79,497.9,11.62
+Geladeira,Eletrodoméstico de cozinha,217.77,Ligado,3.85,143.76,2.01
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.64,Ligado,20.22,492.51,11.6
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.69,Ligado,21.74,494.87,12.97
+Televisão,Eletrônico de entretenimento,122.6,Ligado,29.74,100.05,1.75
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.76,Ligado,21.44,503.36,7.24
+Televisão,Eletrônico de entretenimento,122.52,Ligado,30.2,107.82,1.62
+Microondas,Aquecedor de alimentos,128.98,Ligado,35.23,1197.36,24.58
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.42,Ligado,20.22,498.28,6.72
+Ar Condicionado,Climatizador de ambiente,222.45,Desligado,22.69,1999.7,39.92
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.21,Ligado,19.15,490.5,5.54
+Geladeira,Eletrodoméstico de cozinha,222.74,Ligado,4.78,151.33,4.33
+Televisão,Eletrônico de entretenimento,126.21,Ligado,28.25,98.34,1.39
+Geladeira,Eletrodoméstico de cozinha,217.92,Ligado,3.38,153.63,3.53
+Geladeira,Eletrodoméstico de cozinha,222.77,Ligado,3.39,152.23,3.96
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.42,Ligado,21.1,491.54,13.74
+Microondas,Aquecedor de alimentos,130.91,Ligado,35.05,1197.57,30.93
+Ar Condicionado,Climatizador de ambiente,223.91,Desligado,24.32,2008.77,49.86
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.3,Ligado,18.95,503.81,7.81
+Televisão,Eletrônico de entretenimento,131.7,Ligado,30.23,100.23,1.94
+Geladeira,Eletrodoméstico de cozinha,223.07,Ligado,5.5,158.52,2.39
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.15,Ligado,19.42,498.36,6.61
+Ar Condicionado,Climatizador de ambiente,220.45,Desligado,22.52,2005.0,24.45
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.66,Ligado,18.45,503.15,6.95
+Ar Condicionado,Climatizador de ambiente,220.48,Desligado,23.45,1998.27,39.79
+Televisão,Eletrônico de entretenimento,123.66,Ligado,29.21,108.36,2.27
+Geladeira,Eletrodoméstico de cozinha,221.02,Ligado,2.97,149.72,3.2
+Microondas,Aquecedor de alimentos,126.91,Ligado,36.32,1195.56,30.81
+Ar Condicionado,Climatizador de ambiente,223.14,Desligado,24.13,1999.6,46.45
+Ar Condicionado,Climatizador de ambiente,215.8,Desligado,22.59,2003.03,44.47
+Microondas,Aquecedor de alimentos,128.44,Ligado,36.18,1206.87,14.15
+Geladeira,Eletrodoméstico de cozinha,218.67,Ligado,5.27,140.52,3.67
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.69,Ligado,19.64,506.15,5.35
+Ar Condicionado,Climatizador de ambiente,221.61,Desligado,24.93,1991.13,47.4
+Geladeira,Eletrodoméstico de cozinha,220.51,Ligado,2.76,149.9,2.77
+Máquina de Lavar,Eletrodoméstico de lavanderia,219.6,Ligado,21.57,496.41,5.06
+Ar Condicionado,Climatizador de ambiente,215.1,Desligado,23.78,1991.37,45.18
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.18,Ligado,20.06,499.39,10.23
+Televisão,Eletrônico de entretenimento,126.87,Ligado,31.48,98.7,2.05
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.83,Ligado,19.81,506.3,12.09
+Microondas,Aquecedor de alimentos,125.54,Ligado,35.21,1208.35,23.25
+Geladeira,Eletrodoméstico de cozinha,223.97,Ligado,5.84,159.15,4.56
+Microondas,Aquecedor de alimentos,127.38,Ligado,36.83,1190.4,19.23
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.66,Ligado,19.51,508.21,9.87
+Microondas,Aquecedor de alimentos,125.11,Ligado,34.15,1201.36,25.08
+Microondas,Aquecedor de alimentos,128.25,Ligado,34.98,1192.42,28.52
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.49,Ligado,21.02,504.6,13.3
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.43,Ligado,19.42,494.23,11.17
+Ar Condicionado,Climatizador de ambiente,221.47,Desligado,24.68,1990.57,59.25
+Ar Condicionado,Climatizador de ambiente,223.94,Desligado,22.17,1995.73,21.92
+Máquina de Lavar,Eletrodoméstico de lavanderia,223.73,Ligado,20.24,490.8,8.93
+Ar Condicionado,Climatizador de ambiente,217.94,Desligado,24.71,1995.33,38.75
+Ar Condicionado,Climatizador de ambiente,217.44,Desligado,25.48,1995.3,57.75
+Geladeira,Eletrodoméstico de cozinha,224.24,Ligado,2.76,150.71,1.6
+Televisão,Eletrônico de entretenimento,131.55,Ligado,29.7,101.4,1.47
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.17,Ligado,18.06,506.28,6.61
+Ar Condicionado,Climatizador de ambiente,218.29,Desligado,22.9,2009.12,48.96
+Televisão,Eletrônico de entretenimento,127.72,Ligado,30.96,95.47,2.36
+Ar Condicionado,Climatizador de ambiente,224.6,Desligado,25.33,2008.83,30.09
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.81,Ligado,19.95,496.69,10.14
+Ar Condicionado,Climatizador de ambiente,217.45,Desligado,22.48,1997.68,30.86
+Geladeira,Eletrodoméstico de cozinha,222.06,Ligado,2.96,159.34,3.45
+Microondas,Aquecedor de alimentos,122.66,Ligado,34.54,1190.72,30.84
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.78,Ligado,20.38,505.93,13.47
+Ar Condicionado,Climatizador de ambiente,220.07,Desligado,22.32,2000.1,59.41
+Microondas,Aquecedor de alimentos,130.52,Ligado,34.33,1192.23,26.46
+Ar Condicionado,Climatizador de ambiente,220.48,Desligado,23.69,1996.1,58.05
+Ar Condicionado,Climatizador de ambiente,223.47,Desligado,23.25,1999.39,28.01
+Máquina de Lavar,Eletrodoméstico de lavanderia,216.59,Ligado,18.05,492.45,9.97
+Televisão,Eletrônico de entretenimento,131.61,Ligado,28.02,108.15,1.23
+Microondas,Aquecedor de alimentos,125.49,Ligado,35.97,1201.61,22.73
+Geladeira,Eletrodoméstico de cozinha,223.95,Ligado,3.79,148.13,1.93
+Microondas,Aquecedor de alimentos,123.03,Ligado,35.85,1208.65,20.79
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.93,Ligado,18.28,497.46,9.22
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.02,Ligado,21.41,493.02,9.88
+Geladeira,Eletrodoméstico de cozinha,223.85,Ligado,2.72,148.07,2.35
+Ar Condicionado,Climatizador de ambiente,221.77,Desligado,24.77,1996.28,21.08
+Geladeira,Eletrodoméstico de cozinha,217.81,Ligado,3.28,148.2,2.69
+Geladeira,Eletrodoméstico de cozinha,223.64,Ligado,2.18,157.84,4.29
+Televisão,Eletrônico de entretenimento,122.98,Ligado,28.42,101.56,2.55
+Ar Condicionado,Climatizador de ambiente,220.99,Desligado,24.32,1997.18,46.52
+Microondas,Aquecedor de alimentos,130.54,Ligado,36.36,1202.01,17.17
+Microondas,Aquecedor de alimentos,123.23,Ligado,33.13,1204.68,17.73
+Microondas,Aquecedor de alimentos,131.4,Ligado,36.45,1198.58,35.68
+Geladeira,Eletrodoméstico de cozinha,216.64,Ligado,5.07,142.35,3.35
+Geladeira,Eletrodoméstico de cozinha,221.08,Ligado,5.51,158.71,1.6
+Ar Condicionado,Climatizador de ambiente,224.62,Desligado,23.32,1994.68,45.2
+Máquina de Lavar,Eletrodoméstico de lavanderia,222.38,Ligado,18.25,504.38,9.31
+Microondas,Aquecedor de alimentos,125.52,Ligado,36.21,1206.09,13.42
+Microondas,Aquecedor de alimentos,126.93,Ligado,33.83,1198.55,17.58
+Microondas,Aquecedor de alimentos,125.54,Ligado,36.54,1205.42,31.88
+Ar Condicionado,Climatizador de ambiente,217.07,Desligado,23.93,1996.97,49.44
+Televisão,Eletrônico de entretenimento,129.8,Ligado,30.88,94.69,2.36
+Microondas,Aquecedor de alimentos,126.17,Ligado,35.01,1198.44,13.91
+Ar Condicionado,Climatizador de ambiente,220.48,Desligado,23.15,2001.19,20.14
+Microondas,Aquecedor de alimentos,126.76,Ligado,35.62,1190.83,34.83
+Microondas,Aquecedor de alimentos,123.89,Ligado,33.85,1196.45,33.64
+Ar Condicionado,Climatizador de ambiente,220.67,Desligado,23.0,2005.87,53.52
+Geladeira,Eletrodoméstico de cozinha,217.23,Ligado,5.73,154.77,3.05
+Microondas,Aquecedor de alimentos,123.46,Ligado,33.46,1196.11,17.39
+Televisão,Eletrônico de entretenimento,129.47,Ligado,28.78,97.42,1.95
+Máquina de Lavar,Eletrodoméstico de lavanderia,217.0,Ligado,21.03,504.89,15.01
+Microondas,Aquecedor de alimentos,130.99,Ligado,33.46,1199.49,12.29
+Ar Condicionado,Climatizador de ambiente,220.69,Desligado,24.61,2002.54,24.48
+Geladeira,Eletrodoméstico de cozinha,219.18,Ligado,4.98,156.37,4.61
+Máquina de Lavar,Eletrodoméstico de lavanderia,220.82,Ligado,20.02,494.19,9.81
+Ar Condicionado,Climatizador de ambiente,220.86,Desligado,25.13,2005.64,22.44
+Televisão,Eletrônico de entretenimento,130.77,Ligado,30.48,97.74,1.44
+Microondas,Aquecedor de alimentos,124.79,Ligado,36.73,1190.48,17.09
+Geladeira,Eletrodoméstico de cozinha,219.28,Ligado,2.64,151.67,3.56
+Televisão,Eletrônico de entretenimento,128.29,Ligado,30.5,102.59,2.69
+Geladeira,Eletrodoméstico de cozinha,221.9,Ligado,2.21,150.85,3.06
+Ar Condicionado,Climatizador de ambiente,222.81,Desligado,25.42,2003.69,39.55
+Ar Condicionado,Climatizador de ambiente,215.23,Desligado,24.27,2007.85,26.33
+Microondas,Aquecedor de alimentos,130.52,Ligado,33.52,1206.48,26.24
+Geladeira,Eletrodoméstico de cozinha,219.7,Ligado,2.11,159.83,4.39
+Ar Condicionado,Climatizador de ambiente,216.77,Desligado,22.28,1997.25,51.66
+Ar Condicionado,Climatizador de ambiente,222.33,Desligado,24.32,1994.35,26.79
+Microondas,Aquecedor de alimentos,129.34,Ligado,36.84,1209.98,27.35
+Ar Condicionado,Climatizador de ambiente,217.45,Desligado,23.51,1996.34,30.0
+Geladeira,Eletrodoméstico de cozinha,221.99,Ligado,4.75,143.5,3.79
+Televisão,Eletrônico de entretenimento,126.18,Ligado,30.65,93.86,1.14
+Geladeira,Eletrodoméstico de cozinha,215.04,Ligado,3.59,141.69,3.34
+Geladeira,Eletrodoméstico de cozinha,224.87,Ligado,4.49,147.32,3.1
+Geladeira,Eletrodoméstico de cozinha,224.55,Ligado,5.67,145.45,4.28
+Ar Condicionado,Climatizador de ambiente,215.17,Desligado,24.19,1990.28,26.07
+Ar Condicionado,Climatizador de ambiente,222.11,Desligado,23.58,1996.34,54.62
+Geladeira,Eletrodoméstico de cozinha,218.75,Ligado,4.42,143.37,3.53
+Ar Condicionado,Climatizador de ambiente,216.35,Desligado,23.16,1992.63,26.47
+Microondas,Aquecedor de alimentos,130.16,Ligado,33.81,1206.58,25.74
+Ar Condicionado,Climatizador de ambiente,224.67,Desligado,22.68,2007.11,32.84
+Geladeira,Eletrodoméstico de cozinha,215.81,Ligado,2.54,146.87,2.98
+Máquina de Lavar,Eletrodoméstico de lavanderia,218.74,Ligado,19.74,501.71,14.57
+Geladeira,Eletrodoméstico de cozinha,216.66,Ligado,2.88,156.85,3.18
+Ar Condicionado,Climatizador de ambiente,216.25,Desligado,25.67,2005.31,42.94
+Televisão,Eletrônico de entretenimento,129.77,Ligado,28.93,101.95,2.27
+Ar Condicionado,Climatizador de ambiente,222.29,Desligado,23.18,1992.83,30.65
+Microondas,Aquecedor de alimentos,126.5,Ligado,36.97,1204.88,28.36
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.81,Ligado,20.11,498.52,10.53
+Ar Condicionado,Climatizador de ambiente,220.74,Desligado,25.83,1996.27,26.66
+Microondas,Aquecedor de alimentos,123.87,Ligado,33.34,1196.86,32.59
+Ar Condicionado,Climatizador de ambiente,220.47,Desligado,24.67,2003.55,59.52
+Televisão,Eletrônico de entretenimento,123.88,Ligado,31.53,98.3,2.45
+Ar Condicionado,Climatizador de ambiente,215.64,Desligado,22.83,1999.95,52.18
+Geladeira,Eletrodoméstico de cozinha,223.64,Ligado,4.32,157.16,3.67
+Máquina de Lavar,Eletrodoméstico de lavanderia,221.25,Ligado,20.1,502.17,9.58
+Microondas,Aquecedor de alimentos,127.83,Ligado,33.23,1198.16,34.8
+Microondas,Aquecedor de alimentos,130.39,Ligado,33.79,1196.56,31.72
+Microondas,Aquecedor de alimentos,131.55,Ligado,34.75,1209.86,32.03
