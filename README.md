@@ -16,7 +16,6 @@
 - Banco de dados Oracle: Para operações CRUD (Create, Read, Update, Delete).
 - Swagger/OpenAPI: Documentação interativa dos endpoints.
 - Padrão de Criação: Usaremos o JSON para o gerenciador de configurações.
-- Autenticação JWT: Token.
 
 ## Arquitetura utilizada
 
@@ -25,13 +24,12 @@ A arquitetura monolítica é um estilo de desenvolvimento de software em que tod
 ## Arquitetura da API
 
 
-Este repositório contém uma API RESTful construída em ASP.NET Core, que gerencia dados de produtos e oferece uma funcionalidade de previsão baseada em Machine Learning para recomendar o nome de um produto, com base em suas características. A aplicação utiliza o Entity Framework Core para persistência de dados e uma camada de segurança baseada em JWT para autenticação de usuários.
+Este repositório contém uma API RESTful construída em ASP.NET Core, que gerencia dados de dispositivos conectados na rede sobre consumo energético e oferece uma funcionalidade de previsão baseada em Machine Learning de previsão do custo de consumo do dispositivo. A aplicação utiliza o Entity Framework Core para persistência de dados.
 
-- Models/: Define as classes de modelo do domínio, como Produto e Cliente.
+- Models/: Define as classes de modelo do domínio, como Dispositivo e Usuário.
 - Controllers/: Contém os controladores responsáveis por gerenciar as requisições HTTP.
 - Data/: Contém o contexto do banco de dados (AppDbContext).
 - Data/dados_treinamento.csv: Contém os dados para treinar o modelo de previsão.
-- Services/: Inclui serviços auxiliares, como TokenService para geração de tokens JWT.
 - wwwroot/MLModels/: Armazena o modelo treinado de Machine Learning.
 
 
@@ -43,33 +41,34 @@ Optamos pelo uso do padrão JSON (JavaScript Object Notation) no desenvolvimento
 
 ## Funcionalidades
 
- 1. CRUDs de Produtos,Clientes, Endereço e Email: Permite criar, ler, atualizar e deletar.
- 2. Autenticação JWT: Protege a API com autenticação JWT, garantindo acesso apenas a usuários autorizados.
- 3. Previsão de Produto com IA Generativa: Implementa uma API para prever o nome de um produto com base nas características inseridas, utilizando Machine Learning.
+ 1. CRUDs de Dispositivos,Usuários, Endereço, Telefone e Relatório: Permite criar, ler, atualizar e deletar.
+
+ 3. Previsão de Produto com IA Generativa: Implementa uma API para prever o custo dos dispositivos com base nas características inseridas, utilizando Machine Learning.
  4. Treinamento de Modelo ML: Treina um modelo de IA para prever o nome do produto com base em dados históricos.
  5. Dados: Csv de treinamento contendo + de 7 mil linhas de dados (80%) e csv de Testes (20%) para melhor adequação de aprendizagem de máquina.
 
 ---
 
+
 ## Funcionalidade de IA Generativa
 
 # Detalhes do Modelo de IA
 
-O projeto utiliza o Microsoft ML.NET para treinar um modelo de classificação multi-classe, que prevê o nome do produto para recomendação de uso com base em características, como categoria, preço, sexo do cliente, tamanho, estação do ano e cor do produto.
-A ideia é usar IA generativa para analisar esses dados e gerar uma previsão para o nome do produto. Isso é particularmente útil em contextos de e-commerce ou catálogos, onde o nome do produto pode impactar diretamente a atração do cliente. Com base no comportamento e preferências do usuário, a IA pode sugerir produtos similares ou complementares. Isso é feito ao identificar padrões de preferências de clientes e encontrar produtos correlatos.
-O uso de Machine Learning aplicado a produtos oferece uma plataforma poderosa para transformar dados em valor agregado para o negócio.
+O projeto utiliza o Microsoft ML.NET para treinar um modelo de classificação multi-classe, que prevê o custo do dispositivo  com base em características, como Dispositivo, Voltagem, Temperatura e  Consumo de Watts.
+A ideia é usar IA generativa para analisar esses dados e gerar uma previsão para o possível custo mensal do dispositivo. Isso é particularmente útil no Setor de Energia Renovável, onde o custo por dispositivo pode impactar diretamente na vida das pessoas,empresas e comunidades. Com base no comportamento do usuário, a IA pode prever qual é o custo específico de cada dispositivo, evitando desperdícios e aumentando a eficácia.
 
-JSON para Testes em PrevisaoProdutoController
+
+JSON para Testes em PrevisaoController
 
 {
-  "nomeProduto": "string",
-  "categoria": "Jaquetas",
-  "preco": 292,
-  "sexoCliente": "F",
-  "tamanho": "42",
-  "estacaoAno": "Inverno",
-  "corProduto": "Marrom"
+  "NomeDispositivo": "Televisão",
+  "DescricaoDispositivo": "Eletrônico de entretenimento",
+  "Voltagem": 125.15,
+  "Status": "Ligado",
+  "Temperatura": 29.76,
+  "ConsumoWatts": 95.97
 }
+
 
 ---
 
@@ -78,10 +77,9 @@ JSON para Testes em PrevisaoProdutoController
 O projeto segue princípios de Clean Code para garantir legibilidade, manutenção e qualidade de código. Algumas práticas adotadas incluem:
 
 - Naming Conventions: Todos os métodos, variáveis e classes seguem convenções de nomenclatura claras, que indicam sua funcionalidade.
-- Tratamento de Erros: O código captura exceções específicas e retorna respostas apropriadas ao cliente, como NotFound e BadRequest.
-- Separação de Preocupações: A funcionalidade de geração de token JWT é isolada em TokenService, respeitando o princípio de separação de responsabilidades.
-- Injeção de Dependência: A API utiliza injeção de dependência para o contexto do banco de dados (AppDbContext) e para o serviço de geração de tokens (TokenService), facilitando o teste e a manutenção do código.
-- Responsabilidade Única: Cada classe e método possui uma única responsabilidade. Por exemplo, o ProdutosController gerencia operações CRUD e PrevisaoProdutoController cuida das previsões de produtos.
+- Tratamento de Erros: O código captura exceções específicas e retorna respostas apropriadas ao Usuário, como NotFound e BadRequest.
+- Injeção de Dependência: A API utiliza injeção de dependência para o contexto do banco de dados (AppDbContext) facilitando o teste e a manutenção do código.
+- Responsabilidade Única: Cada classe e método possui uma única responsabilidade. Por exemplo, o DispositivoController gerencia operações CRUD e PrevisaoController cuida das previsões de produtos.
 - Os endpoints responsáveis pelas operações CRUD (Create, Read, Update e Delete) serão implementados seguindo essa arquitetura monolítica. Isso implica que todas as operações relativas aos recursos da API, como a criação de novos registros, leitura, atualização e remoção de dados, estarão centralizadas no mesmo núcleo da aplicação, permitindo uma gestão unificada e simplificada dos dados e funcionalidades.
 
 
@@ -95,7 +93,8 @@ O projeto segue princípios de Clean Code para garantir legibilidade, manutenç�
 **Passos para Execução**
   1. Clone o repositório:
 
-    git clone https://github.com/RaphaPab/Plusoft3SprintFinal
+    
+    git clone https://github.com/RaphaPab/JarvisEnergy
      
   3. Configure as variáveis de ambiente com as credenciais de acesso ao banco Oracle.
 
