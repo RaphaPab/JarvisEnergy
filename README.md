@@ -299,12 +299,69 @@ Exemplo Corpo de resposta
 ![image](https://github.com/user-attachments/assets/12aa3cc3-832d-4794-8872-78e010a3c94a)
 
 
+Dispositivos
+
+
+GET
+/api/Dispositivos
+corpo 
+![image](https://github.com/user-attachments/assets/bbee67a1-a122-4273-818e-75276f3d083c)
+
+![image](https://github.com/user-attachments/assets/3a5a2e35-b02e-4b10-bf14-905a9f8a3da4)
+
+
+### Endpoints CRUD - Dispositivos
+Os dispositivos podem ser gerenciados através dos seguintes endpoints:
+
+**GET - Buscar Dispositivos**
+URL: /api/Dispositivos
+Descrição: Retorna uma lista de todos os dispositivos cadastrados.
+Exemplo de Corpo de Resposta:
+
+![image](https://github.com/user-attachments/assets/bbee67a1-a122-4273-818e-75276f3d083c)
+
+![image](https://github.com/user-attachments/assets/3a5a2e35-b02e-4b10-bf14-905a9f8a3da4)
+
+
+###  - Adicionar Dispositivo
+URL: /api/Dispositivos
+Descrição: Cria um novo dispositivo no sistema.
+
+*Exemplo de corpo de solicitação:
+Json:{
+    "idDispositivo": 1,
+    "nomeDispositivo": "Televisão",
+    "descricaoDispositivo": "Eletrônico de entretenimento",
+    "voltagem": "127V",
+    "status": "Ligado",
+    "temperatura": "29.76°C",
+    "consumoWatts": 125.15,
+    "custoConsumo": 95.97
+}
+
+![image](https://github.com/user-attachments/assets/6d2dd0d8-da84-4242-a656-fac9af845ae7)
+
+Exemplo de corpo de resposta:
+![image](https://github.com/user-attachments/assets/0926298f-3a61-4b16-8095-10d70d6f5ecc)
+
+
+
+## PUT - Atualizar Dispositivo
+Descrição: Atualiza os dados de um dispositivo existente.
+URL: /api/Dispositivos/3
+
+![image](https://github.com/user-attachments/assets/d7d7c7d3-0c05-4e96-b660-6718d6170f5f)
 
 
 
 
 
+#DELETE - Excluir Dispositivo
+URL: /api/Dispositivos/3
+Descrição: Exclui um dispositivo baseado no ID.
 
+
+![image](https://github.com/user-attachments/assets/b3f93b3e-4e6a-40ff-a030-a29436ec719b)
 
 
 
