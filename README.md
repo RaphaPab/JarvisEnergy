@@ -107,6 +107,7 @@ O projeto segue princípios de Clean Code para garantir legibilidade, manutenç�
       Clique em https.
       
   ![image](https://github.com/user-attachments/assets/266cf312-9dbc-41ac-9c08-203886ca308b)
+  
 
 
 
@@ -114,28 +115,13 @@ O projeto segue princípios de Clean Code para garantir legibilidade, manutenç�
 
 ## Endpoints CRUD
 
-- **PrevisaoProdutoController**
-  Controller responsável por prever o nome de um produto com base nas características informadas.
+- **PrevisaoController**
+  Controller responsável por prever o consumo com base nas características informadas.
 
   - **POST**
  
-    ![image](https://github.com/user-attachments/assets/d8334c81-6794-4efd-8569-1b92e5663c2a)
+    ![image](https://github.com/user-attachments/assets/18d16dda-1cac-4e3c-ae3e-75d73c29b26a)
 
-
-
-
-- **TokenService**
-  AuthController e AuthService para implementação de serviço de autenticação.
-
-    Acesso: Username == "usuario".
-    Login.Password == "senha123".
-
-
-    ![image](https://github.com/user-attachments/assets/872eede0-6860-44ce-ba16-935a03e1728f)
-
-    ![image](https://github.com/user-attachments/assets/d563b39b-c06d-44f0-8c21-7bf5d0dd1ae9)
-
-    ![image](https://github.com/user-attachments/assets/58d0e0dd-fc97-4841-91c5-d6b1080e1f2f)
 
 
 
@@ -144,10 +130,11 @@ O projeto segue princípios de Clean Code para garantir legibilidade, manutenç�
   
 Os endpoints da API seguem o padrão **CRUD** (Create, Read, Update, Delete) para os recursos:
 
-- **Clientes**
-- **Emails**
+- **Dispositivos**
+- **Usuários**
 - **Endereços**
-- **Produtos**
+- **Telefones**
+- **Relatórios**
 
 Cada recurso interage com o banco de dados **Oracle** utilizando o **Entity Framework Core**, garantindo a integração e manipulação de dados de forma eficiente. Os seguintes métodos RESTful são implementados:
 
@@ -195,33 +182,35 @@ DELETE
 
 ---
 
-- [Listagem de Clientes](#Buscar_Lista_de_Clientes)
+- [Listagem de Usuários](#Buscar_Lista_de_Usuarios)
 - [Enviar dados](#Enviar_dados)
-- [Listar Cliente por ID](#Listar_Cliente_por_ID)
+- [Listar Usuarios por ID](#Listar_Usuarios_por_ID)
 - [Alterar dados no sistema](#Alterar_dados_no_sistema)
 - [Deletar dados no sistema](#Deletar_dados_no_sistema)
 
 Alterar dados no sistema
 ---
 
-### Buscar_Lista_de_Clientes
+### Buscar_Lista_de_Usuarios
 
 #### Endpoint
 
 - **Método**: GET  
-- **URL**: 'localhost:7146/api/Clientes'
+- **URL**: 'localhost:7260/api/Usuarios'
 
 - #### Descrição
 Este endpoint retorna uma Lista de clientes cadastrados no sistema.
 
 Exemplo Corpo de resposta
 
-![image](https://github.com/user-attachments/assets/bbc1234a-6ce5-40dd-882b-1006424f0e71)
+![image](https://github.com/user-attachments/assets/61ce6034-2804-4ff1-a525-ce9046ef77aa)
+
 
 
 Exemplo Corpo do request
 
-![image](https://github.com/user-attachments/assets/1a6d7c4c-7a7b-4db6-87b0-e85c43fa4ab1)
+![image](https://github.com/user-attachments/assets/25549e37-2dba-4c0b-93be-13fc06e42c07)
+
 
 
 
@@ -230,23 +219,25 @@ Exemplo Corpo do request
 #### Endpoint
 
 - **Método**: POST  
-- **URL**: 'localhost:7146/api/Clientes'
+- **URL**: 'localhost:7260/api/Usuarios'
 
 #### Descrição
 Este endpoint envia dados do cliente para o banco de dados.
 
 Exemplo Corpo de resposta
-![image](https://github.com/user-attachments/assets/38a054da-2e4d-4f56-bf8c-585bb164083a)
+![image](https://github.com/user-attachments/assets/00190cdf-6a09-4bc8-95f8-6948d5196bf6)
+
 
 
 Exemplo Corpo do request
-{
-  "id": 6,
-  "nome": "Carlos",
-  "dataNascimento": "2000-09-15T22:38:24.922Z",
-  "cpf": 654651651,
-  "telefone": "6579545"
-}
+ {
+    "idUsuario": 3,
+    "nomeUsuario": "Ana Souza",
+    "cpf": "321.654.987-22",
+    "rg": "32.165.498-7",
+    "dataNascimento": "2000-10-10T00:00:00",
+    "senha": "senhaSegura789"
+  }
 
 
 
@@ -257,16 +248,16 @@ Exemplo Corpo do request
 #### Endpoint
 
 - **Método**: GET  
-- **URL**: 'localhost:7146/api/Clientes/4'
+- **URL**: 'localhost:7260/api/Usuarios'
 
 - #### Descrição
 Este endpoint retorna o ID do cliente cadastrado no sistema.
 
 Exemplo Corpo de resposta
-![image](https://github.com/user-attachments/assets/e141ccf3-a6a7-46ae-bec2-806384c60b7b)
+![image](https://github.com/user-attachments/assets/d631c32e-575b-4e67-b6ea-5fcdc6d139ae)
 
 Exemplo Corpo do request
-![image](https://github.com/user-attachments/assets/dfdc39f2-73f8-4d5b-8b25-9b20a43af03a)
+![image](https://github.com/user-attachments/assets/87c1d3bd-45a2-452a-bc00-3a533183b817)
 
 
 ### Alterar_dados_no_sistema
@@ -276,16 +267,19 @@ Exemplo Corpo do request
 #### Endpoint
 
 - **Método**: PUT  
-- **URL**: 'localhost:7146/api/Clientes/4'
+- **URL**: 'localhost:7260/api/Usuarios/3'
 
 - #### Descrição
-Este endpoint altera os dados do cliente cadastrado no sistema.
+Este endpoint altera os dados do usuário cadastrado no sistema.
 
 Exemplo Corpo de resposta
-![image](https://github.com/user-attachments/assets/b4d629c1-10fb-4c4a-9841-14b4841837de)
+![image](https://github.com/user-attachments/assets/777b54e5-6562-4c8d-ac96-a1ff1f0e9f37)
+
+
 
 Exemplo Corpo do request
-![image](https://github.com/user-attachments/assets/c2dd6759-e8eb-4ae4-9a9e-a4bc28c789ae)
+![image](https://github.com/user-attachments/assets/7cb9c389-776c-4c81-909a-4b1b4fa5337e)
+
 
 
 
@@ -296,13 +290,14 @@ Exemplo Corpo do request
 #### Endpoint
 
 - **Método**: DELETE  
-- **URL**: 'localhost:7146/api/Clientes/4'
+- **URL**: 'localhost:7260/api/Usuarios/3'
 
 - #### Descrição
 Este endpoint deleta os dados do cliente cadastrado no sistema de acordo com o ID.
 
 Exemplo Corpo de resposta
-![image](https://github.com/user-attachments/assets/b15a28cc-f81c-41b6-bb12-ffbb6b962ff4)
+![image](https://github.com/user-attachments/assets/12aa3cc3-832d-4794-8872-78e010a3c94a)
+
 
 
 
