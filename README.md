@@ -300,10 +300,6 @@ Exemplo Corpo de resposta
 
 
 
-
-
-
-
   
 
 ### Endpoints CRUD - Dispositivos
