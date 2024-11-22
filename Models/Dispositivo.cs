@@ -29,13 +29,21 @@ namespace JarvisEnergy.Models
         [MaxLength(100)]
         public string Status { get; set; }
 
+
         
+        [Column("NR_TEMPERATURA")]
+        [Required]
         public string Temperatura { get; set; }
 
+
+        [Column("NR_CONSUMO_WATTS")]
+        [Required]
         
-        
-        public string ConsumoWatts { get; set; }
+        public float ConsumoWatts { get; set; }
 
 
+        [Column("NR_CUSTO_CONSUMO")]
+        [Required]
+        public float CustoConsumo { get; set; }
     }
 }

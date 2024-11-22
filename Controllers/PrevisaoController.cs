@@ -6,7 +6,7 @@ using System.IO;
 
 namespace JarvisEnergy.Controllers
 {
-    // Definição dos dados de entrada
+    
     public class DadosDispositivo
     {
         [LoadColumn(0)]
@@ -31,14 +31,14 @@ namespace JarvisEnergy.Controllers
         public float CustoConsumo { get; set; } // Label para treinamento
     }
 
-    // Definição dos dados de previsão
+  
     public class PrevisaoConsumoPrevisto
     {
         [ColumnName("Score")]
         public float CustoConsumoPrevisto { get; set; } // Previsão do custo de consumo
     }
 
-    // Controlador para a previsão de consumo
+    
     [Route("api/[controller]")]
     [ApiController]
     public class PrevisaoController : ControllerBase
@@ -67,7 +67,7 @@ namespace JarvisEnergy.Controllers
                 Console.WriteLine($"Diretório criado: {pastaModelo}");
             }
 
-            // Carregar dados de treinamento
+            
             IDataView dadosTreinamento = mlContext.Data.LoadFromTextFile<DadosDispositivo>(
                 path: caminhoTreinamento, hasHeader: true, separatorChar: ',');
 
@@ -84,10 +84,10 @@ namespace JarvisEnergy.Controllers
                     nameof(DadosDispositivo.ConsumoWatts)))
                 .Append(mlContext.Regression.Trainers.Sdca(labelColumnName: nameof(DadosDispositivo.CustoConsumo), featureColumnName: "Features"));
 
-            // Treinar o modelo
+            
             var modelo = pipeline.Fit(dadosTreinamento);
 
-            // Salvar o modelo treinado
+            
             mlContext.Model.Save(modelo, dadosTreinamento.Schema, caminhoModelo);
             Console.WriteLine("Modelo treinado e salvo com sucesso.");
         }
@@ -100,20 +100,20 @@ namespace JarvisEnergy.Controllers
                 return BadRequest("O modelo ainda não foi treinado.");
             }
 
-            // Carregar o modelo salvo
+            
             ITransformer modelo;
             using (var stream = new FileStream(caminhoModelo, FileMode.Open, FileAccess.Read, FileShare.Read))
             {
                 modelo = mlContext.Model.Load(stream, out var _);
             }
 
-            // Criar o engine de previsão
+            
             var enginePrevisao = mlContext.Model.CreatePredictionEngine<DadosDispositivo, PrevisaoConsumoPrevisto>(modelo);
 
-            // Realizar a previsão
+            
             var previsao = enginePrevisao.Predict(dados);
 
-            // Retornar a previsão
+            
             return Ok(previsao);
         }
     }
