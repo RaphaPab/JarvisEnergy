@@ -32,6 +32,9 @@ Este repositório contém uma API RESTful construída em ASP.NET Core, que geren
 - Data/dados_treinamento.csv: Contém os dados para treinar o modelo de previsão.
 - wwwroot/MLModels/: Armazena o modelo treinado de Machine Learning.
 
+## Design Patterns
+
+O código implementa uma API organizada com princípios de boas práticas e padrões de projeto em .NET. Ele utiliza Dependency Injection para gerenciar dependências como o AppDbContext e configura o Entity Framework Core para conexão com banco Oracle. O uso do Repository Pattern está implícito no DbContext, facilitando o acesso a dados de forma desacoplada. No controlador de previsões, o pipeline de machine learning é criado utilizando o Builder Pattern, com um fluxo encadeado para transformar e treinar os dados. O objeto MLContext segue o Singleton Pattern, garantindo uma única instância para gerenciar operações de ML. O código também inclui um mecanismo de treinamento e salvamento do modelo preditivo, adotando o Factory Pattern na criação e configuração do pipeline de ML. Além disso, integra Swagger para documentação e configurações de serialização JSON otimizadas para evitar problemas de referência circular. Esses elementos garantem uma aplicação robusta, modular e de fácil manutenção.
 
 ---
 
